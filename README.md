@@ -3,6 +3,6 @@ I learned to program in [Processing](https://processing.org/), a lovely software
 
 This repository is digital proof of that learning process.
 
-There is bad code in here. There is (occasionally) good code in here. I don't even remember writing some of it.
+There is bad code in here. There is good code in here (well, rarely). I don't even remember writing some of it.
 
 Hic sunt dracones!
