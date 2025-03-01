@@ -1,0 +1,43 @@
+Please report all errors, glitches, bugs, etc. that you have with
+your program. Report in the following format:
+
+ERROR:
+@[who you are]
+[Error information
+
+For example-
+
+ERROR:
+@Adam
+Hi, I was having this problem where I get a BSOD. I managed to get a
+look at the Processing logs and I was getting a NullPointerException
+on line 207. Could you look into this?
+
+/////////////////////////////////////////////////////////////////////
+------------PLEASE POST ALL PROBLEMS AFTER THIS NEXT LINE------------
+/////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////
+---------------------------END PROBLEM LOG---------------------------
+/////////////////////////////////////////////////////////////////////

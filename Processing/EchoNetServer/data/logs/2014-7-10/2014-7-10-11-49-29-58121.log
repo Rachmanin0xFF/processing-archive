@@ -1,0 +1,113 @@
+Log Start @2014-7-10-11-48-32-355
+Current ID Tick: 6
+~CONF 6
+A new client has connected. IP: 127.0.0.1 ID: 0x00000006
+~6`FLIST`README.txt`BUG REPORT.log`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 7
+A new client has connected. IP: 127.0.0.1 ID: 0x00000007
+~7`FLIST`README.txt`BUG REPORT.log`ASCII Art.txt`TODO.txt`exampleFile.txt
+Creating file with name of "Kingdom Of Adam"
+Saving file names to data/fileNames.list...
+File names saved.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~7`LOADLINE`0`Kingdom Of Adam`
+~7`PUSH`0`Kingdom Of Adam`H
+~7`PUSH`0`Kingdom Of Adam`HE
+~7`PUSH`0`Kingdom Of Adam`H
+~7`PUSH`0`Kingdom Of Adam`He
+~7`PUSH`0`Kingdom Of Adam`Hel
+~7`PUSH`0`Kingdom Of Adam`Hell
+~7`PUSH`0`Kingdom Of Adam`Hello
+~7`PUSH`0`Kingdom Of Adam`Hello,
+~7`PUSH`0`Kingdom Of Adam`Hello, 
+~7`PUSH`0`Kingdom Of Adam`Hello, t
+~7`PUSH`0`Kingdom Of Adam`Hello, th
+~7`PUSH`0`Kingdom Of Adam`Hello, thi
+~7`PUSH`0`Kingdom Of Adam`Hello, this
+~7`PUSH`0`Kingdom Of Adam`Hello, this 
+~7`PUSH`0`Kingdom Of Adam`Hello, this i
+~7`PUSH`0`Kingdom Of Adam`Hello, this is
+~7`PUSH`0`Kingdom Of Adam`Hello, this is 
+~7`PUSH`0`Kingdom Of Adam`Hello, this is k
+~7`PUSH`0`Kingdom Of Adam`Hello, this is ki
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kin
+~7`PUSH`0`Kingdom Of Adam`Hello, this is king
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingd
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdo
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom 
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom o
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of 
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of A
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Ad
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Ada
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam.
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. 
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. H
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. Hw
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. Hwo
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. Hw
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. H
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. Ho
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How 
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u 
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u d
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~7`ISL`0`Kingdom Of Adam
+~7`PUSH`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~7`PUSH`1`Kingdom Of Adam`
+~7`PUSH`1`Kingdom Of Adam`G
+~7`PUSH`1`Kingdom Of Adam`Go
+~7`PUSH`1`Kingdom Of Adam`Goo
+~7`PUSH`1`Kingdom Of Adam`Good
+~7`PUSH`1`Kingdom Of Adam`Good.
+~7`ISL`1`Kingdom Of Adam
+~7`PUSH`1`Kingdom Of Adam`Good.
+~7`PUSH`2`Kingdom Of Adam`
+~7`PUSH`2`Kingdom Of Adam`G
+~7`PUSH`2`Kingdom Of Adam`Go
+~7`PUSH`2`Kingdom Of Adam`Goo
+~7`PUSH`2`Kingdom Of Adam`Good
+~7`PUSH`2`Kingdom Of Adam`Good.
+~7`PUSH`2`Kingdom Of Adam`Good. 
+~7`PUSH`2`Kingdom Of Adam`Good. M
+~7`PUSH`2`Kingdom Of Adam`Good. Me
+~7`PUSH`2`Kingdom Of Adam`Good. Me 
+~7`PUSH`2`Kingdom Of Adam`Good. Me d
+~7`PUSH`2`Kingdom Of Adam`Good. Me do
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo 
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo g
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo go
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo goo
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good 
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good t
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good to
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good too
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good too2
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good too2.
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good too2. 
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good too2.
+~7`ISL`2`Kingdom Of Adam
+~7`PUSH`2`Kingdom Of Adam`Good. Me doo good too2.
+~7`PUSH`3`Kingdom Of Adam`
+~7`PUSH`3`Kingdom Of Adam`L
+~7`PUSH`3`Kingdom Of Adam`Lo
+~7`PUSH`3`Kingdom Of Adam`Lol
+~7`PUSH`3`Kingdom Of Adam`Lole
+~7`PUSH`3`Kingdom Of Adam`Lole.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~7`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

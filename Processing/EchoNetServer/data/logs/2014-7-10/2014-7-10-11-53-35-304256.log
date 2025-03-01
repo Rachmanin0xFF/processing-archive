@@ -1,0 +1,301 @@
+Log Start @2014-7-10-11-49-29-58123
+Current ID Tick: 8
+Logs saved.
+Saving README.txt to server database...
+README.txt saved.
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+Saving TODO.txt to server database...
+TODO.txt saved.
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+~7`LOADLINE`0`README.txt`
+~7`LOADLINE`1`README.txt`Hello, welcome to EchoNet!
+~7`LOADLINE`2`README.txt`
+~7`LOADLINE`3`README.txt`
+~7`LOADLINE`4`README.txt`EchoNet was designed to be like Dropbox or Google Drive, but more
+~7`LOADLINE`5`README.txt`code-friendly.
+~7`LOADLINE`6`README.txt`It is still under development, so there will be glitches!
+~7`LOADLINE`7`README.txt`
+~7`LOADLINE`8`README.txt`
+~7`LOADLINE`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~7`LOADLINE`10`README.txt`
+~7`LOADLINE`11`README.txt`-Adam
+~7`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving README.txt to server database...
+README.txt saved.
+~7`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~7`LOADLINE`1`Kingdom Of Adam`Good.
+~7`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~7`LOADLINE`3`Kingdom Of Adam`Lole.
+~7`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~7`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~7`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~7`LOADLINE`2`ASCII Art.txt`
+~7`LOADLINE`3`ASCII Art.txt`#####                                _______
+~7`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~7`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~7`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~7`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~7`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~7`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~7`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~7`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~7`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~7`LOADLINE`13`ASCII Art.txt`###     ############
+~7`LOADLINE`14`ASCII Art.txt`#####################
+~7`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~7`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~7`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~7`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~7`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~7`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~7`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~7`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~7`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~7`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~7`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~7`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~7`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~7`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~7`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~7`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~7`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~7`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~7`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~7`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~7`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~7`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~7`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~7`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@
+~7`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~7`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~7`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~7`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~7`ISL`34`ASCII Art.txt
+~7`PUSH`34`ASCII Art.txt`###     
+~7`PUSH`35`ASCII Art.txt`               |  |  |
+~7`PUSH`36`ASCII Art.txt`#########              |  |  |
+~7`PUSH`37`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`38`ASCII Art.txt`                       @  @  @
+~7`PUSH`39`ASCII Art.txt`ASCII ARTS            @@@@@@@@@
+~7`PUSH`40`ASCII Art.txt`                       @  @  @
+~7`PUSH`41`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`42`ASCII Art.txt`                       @  @  @
+~7`PUSH`43`ASCII Art.txt`we shud go verticul next time
+~7`RMLN`35`ASCII Art.txt
+~7`PUSH`34`ASCII Art.txt`###                    |  |  |
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS           @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS          @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS         @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS        @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS       @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS      @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS     @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS    @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (a   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am    @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am s   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so    @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so c   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so co   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so coo   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so cool   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS (am so cool)   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS(am so cool)   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS(am so cool)  @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS(am so cool) @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS(am so cool)@@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS(am so cool@@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS(am so cool @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTSam so cool @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am so cool @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am so coo @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am so co @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am so c @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am so  @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am so @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am s @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am  @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS am @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS a @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS  @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS   @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS    @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS     @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS      @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS       @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS        @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS         @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS          @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS           @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@ 
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (A
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am 
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am s
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so 
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so c
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so co
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so coo
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so cool
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so cool!
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@  (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@   (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@    (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@     (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@      (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@       (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@        (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@         (Am so cool!)
+~7`PUSH`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~7`ISL`14`ASCII Art.txt
+~7`PUSH`14`ASCII Art.txt`#####################
+~7`PUSH`15`ASCII Art.txt`
+~7`PUSH`16`ASCII Art.txt`##################   +++++++++
+~7`PUSH`17`ASCII Art.txt`###################  +++++++++
+~7`PUSH`18`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~7`PUSH`19`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~7`PUSH`20`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~7`PUSH`21`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~7`PUSH`22`ASCII Art.txt`##    ############  \\    \\\\
+~7`PUSH`23`ASCII Art.txt`##    #########   ++++++++++++
+~7`PUSH`24`ASCII Art.txt`###############   ++++++++++++
+~7`PUSH`25`ASCII Art.txt`###############    +=============+
+~7`PUSH`26`ASCII Art.txt`##############       ???????????
+~7`PUSH`27`ASCII Art.txt`###########          |         |   
+~7`PUSH`28`ASCII Art.txt`#######              |_________|
+~7`PUSH`29`ASCII Art.txt`###                   |    _  |
+~7`PUSH`30`ASCII Art.txt`########              | _  ||_|
+~7`PUSH`31`ASCII Art.txt`#####                 |_|| | |
+~7`PUSH`32`ASCII Art.txt`########               | |_| |
+~7`PUSH`33`ASCII Art.txt`#####                  |  |  |
+~7`PUSH`34`ASCII Art.txt`######                 |  |  |
+~7`PUSH`35`ASCII Art.txt`###                    |  |  |
+~7`PUSH`36`ASCII Art.txt`#########              |  |  |
+~7`PUSH`37`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`38`ASCII Art.txt`                       @  @  @
+~7`PUSH`39`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~7`PUSH`40`ASCII Art.txt`                       @  @  @
+~7`PUSH`41`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`42`ASCII Art.txt`                       @  @  @
+~7`PUSH`43`ASCII Art.txt`we shud go verticul next time
+~7`RMLN`15`ASCII Art.txt
+~7`PUSH`14`ASCII Art.txt`#####################
+~7`ISL`14`ASCII Art.txt
+~7`PUSH`14`ASCII Art.txt`#####################
+~7`PUSH`15`ASCII Art.txt`
+~7`PUSH`16`ASCII Art.txt`##################   +++++++++
+~7`PUSH`17`ASCII Art.txt`###################  +++++++++
+~7`PUSH`18`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~7`PUSH`19`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~7`PUSH`20`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~7`PUSH`21`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~7`PUSH`22`ASCII Art.txt`##    ############  \\    \\\\
+~7`PUSH`23`ASCII Art.txt`##    #########   ++++++++++++
+~7`PUSH`24`ASCII Art.txt`###############   ++++++++++++
+~7`PUSH`25`ASCII Art.txt`###############    +=============+
+~7`PUSH`26`ASCII Art.txt`##############       ???????????
+~7`PUSH`27`ASCII Art.txt`###########          |         |   
+~7`PUSH`28`ASCII Art.txt`#######              |_________|
+~7`PUSH`29`ASCII Art.txt`###                   |    _  |
+~7`PUSH`30`ASCII Art.txt`########              | _  ||_|
+~7`PUSH`31`ASCII Art.txt`#####                 |_|| | |
+~7`PUSH`32`ASCII Art.txt`########               | |_| |
+~7`PUSH`33`ASCII Art.txt`#####                  |  |  |
+~7`PUSH`34`ASCII Art.txt`######                 |  |  |
+~7`PUSH`35`ASCII Art.txt`###                    |  |  |
+~7`PUSH`36`ASCII Art.txt`#########              |  |  |
+~7`PUSH`37`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`38`ASCII Art.txt`                       @  @  @
+~7`PUSH`39`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~7`PUSH`40`ASCII Art.txt`                       @  @  @
+~7`PUSH`41`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`42`ASCII Art.txt`                       @  @  @
+~7`PUSH`43`ASCII Art.txt`we shud go verticul next time
+~7`RMLN`15`ASCII Art.txt
+~7`PUSH`14`ASCII Art.txt`#####################
+~7`ISL`14`ASCII Art.txt
+~7`PUSH`14`ASCII Art.txt`#####################
+~7`PUSH`15`ASCII Art.txt`
+~7`PUSH`16`ASCII Art.txt`##################   +++++++++
+~7`PUSH`17`ASCII Art.txt`###################  +++++++++
+~7`PUSH`18`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~7`PUSH`19`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~7`PUSH`20`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~7`PUSH`21`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~7`PUSH`22`ASCII Art.txt`##    ############  \\    \\\\
+~7`PUSH`23`ASCII Art.txt`##    #########   ++++++++++++
+~7`PUSH`24`ASCII Art.txt`###############   ++++++++++++
+~7`PUSH`25`ASCII Art.txt`###############    +=============+
+~7`PUSH`26`ASCII Art.txt`##############       ???????????
+~7`PUSH`27`ASCII Art.txt`###########          |         |   
+~7`PUSH`28`ASCII Art.txt`#######              |_________|
+~7`PUSH`29`ASCII Art.txt`###                   |    _  |
+~7`PUSH`30`ASCII Art.txt`########              | _  ||_|
+~7`PUSH`31`ASCII Art.txt`#####                 |_|| | |
+~7`PUSH`32`ASCII Art.txt`########               | |_| |
+~7`PUSH`33`ASCII Art.txt`#####                  |  |  |
+~7`PUSH`34`ASCII Art.txt`######                 |  |  |
+~7`PUSH`35`ASCII Art.txt`###                    |  |  |
+~7`PUSH`36`ASCII Art.txt`#########              |  |  |
+~7`PUSH`37`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`38`ASCII Art.txt`                       @  @  @
+~7`PUSH`39`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~7`PUSH`40`ASCII Art.txt`                       @  @  @
+~7`PUSH`41`ASCII Art.txt`                      @ @@@@@ @
+~7`PUSH`42`ASCII Art.txt`                       @  @  @
+~7`PUSH`43`ASCII Art.txt`we shud go verticul next time
+~7`RMLN`15`ASCII Art.txt
+~7`PUSH`14`ASCII Art.txt`#####################
+~7`PUSH`3`ASCII Art.txt`#####                y                _______
+~7`PUSH`3`ASCII Art.txt`#####                ye                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee                 _______
+~7`PUSH`3`ASCII Art.txt`#####                yee v                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vr                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrr                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry                 _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry n                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry ne                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry nea                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry neat                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry neat-                _______
+~7`PUSH`3`ASCII Art.txt`#####                yee vrry neat-o                _______
+~7`PUSH`3`ASCII Art.txt`#####               yee vrry neat-o                _______
+~7`PUSH`3`ASCII Art.txt`#####              yee vrry neat-o                _______
+~7`PUSH`3`ASCII Art.txt`#####             yee vrry neat-o                _______
+~7`PUSH`3`ASCII Art.txt`#####            yee vrry neat-o                _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o                _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o               _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o              _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o             _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o            _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o           _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o          _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o         _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o        _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o       _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o     _______
+~7`PUSH`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~7`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

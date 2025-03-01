@@ -1,0 +1,140 @@
+# key:
+#     n - neuron I.D. - neuron name
+#     b - neuron bias
+#     a - is neuron active?
+#     s - sigmoid mode [0: x/(1+|x|), 1: 1/(1+e^(-x)), 2: tanh(x)]
+#     OBU - override bipartite update?
+#     w weight1 weight2 weight3 ...
+#     i inputID1 inputID2 inputID3 ...
+#     wgrad weightGradient1 weightGradient2 weightGradient3 ... [gradients are relative to a predetermined cost function of the network]
+#     bgrad biasGradient1 biasGradient2 biasGradient3
+
+n 0 
+b 4.3184385
+a true
+s 0
+OBU true
+w 3.5790713 
+i 0 
+wgrad -0.28814977 
+bgrad 0.17425649
+
+n 1 
+b 4.1628294
+a true
+s 0
+OBU true
+w 2.9347644 
+i 0 
+wgrad -0.0610476 
+bgrad 0.21865062
+
+n 2 
+b -5.1046033
+a true
+s 0
+OBU true
+w 3.4548738 
+i 0 
+wgrad -0.10876909 
+bgrad -0.035315827
+
+n 3 
+b 1.2416801
+a true
+s 0
+OBU true
+w -0.83136624 
+i 0 
+wgrad 0.05920537 
+bgrad 0.09705737
+
+n 4 
+b -2.2160037
+a true
+s 0
+OBU true
+w 3.6214347 
+i 0 
+wgrad -0.12545548 
+bgrad 0.086604804
+
+n 5 
+b -3.4611368
+a true
+s 0
+OBU true
+w -4.301057 
+i 0 
+wgrad 0.018189847 
+bgrad -0.07557161
+
+n 6 
+b 5.3322496
+a true
+s 0
+OBU true
+w 2.472138 
+i 0 
+wgrad -0.089652464 
+bgrad 0.010043606
+
+n 7 
+b 5.0349154
+a true
+s 0
+OBU true
+w 1.6199841 
+i 0 
+wgrad -0.025937036 
+bgrad 0.027544424
+
+n 8 
+b -1.2061682
+a true
+s 0
+OBU true
+w -1.8140131 
+i 0 
+wgrad -0.18484585 
+bgrad 0.19225739
+
+n 9 
+b -3.3374777
+a true
+s 0
+OBU true
+w 0.9843109 
+i 0 
+wgrad -0.2252832 
+bgrad -0.18965058
+
+n 10 
+b -0.6893485
+a true
+s 0
+OBU true
+w -0.95332056 
+i 0 
+wgrad -0.064943954 
+bgrad -0.02268225
+
+n 11 
+b -1.0993638
+a true
+s 0
+OBU true
+w 1.8190997 
+i 0 
+wgrad -0.0038974732 
+bgrad 0.0640624
+
+n 12 
+b -4.0702496
+a true
+s 0
+OBU true
+w 1.1227362 
+i 0 
+wgrad -0.111561865 
+bgrad 0.0

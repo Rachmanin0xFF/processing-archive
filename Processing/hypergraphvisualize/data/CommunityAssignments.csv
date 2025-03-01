@@ -1,0 +1,271 @@
+# Index,Muscle,Community Assignment
+1,Trapezius,1
+2,Latissimus Dorsi,2
+63,Iliocostalis Lumborum,2
+69,Spinalis Thoracis,2
+72,Semispinalis Thoracis,2
+83,Interspinalis 8,2
+84,Interspinalis 9,2
+85,Interspinalis 10,2
+86,Interspinalis 11,2
+87,Interspinalis 12,2
+93,Rotatores 6,2
+94,Rotatores 7,2
+95,Rotatores 8,2
+96,Rotatores 9,2
+97,Rotatores 10,2
+98,Rotatores 11,2
+108,Intertransverse 10,2
+109,Intertransverse 11,2
+110,Intertransverse 12,2
+111,Intertransverse 13,2
+112,Intertransverse 14,2
+157,Tensor Fascia Lata,2
+180,Psoas Major,2
+270,Quadratus lumborum,2
+3,Serratus Posterior Superior,3
+8,Serratus Anterior,3
+15,Subclavius,3
+16,Pectoralis Major,3
+17,Pectoralis Minor,3
+65,Iliocostalis Cervicis,3
+226,External intercostal 1,3
+227,External intercostal 2,3
+228,External intercostal 3,3
+229,External intercostal 4,3
+237,Internal intercostal 1,3
+238,Internal intercostal 2,3
+239,Internal intercostal 3,3
+240,Internal intercostal 4,3
+248,Innermost intercostal 1,3
+249,Innermost intercostal 2,3
+250,Innermost intercostal 3,3
+251,Innermost intercostal 4,3
+259,Subcostalis 1,3
+260,Subcostalis 2,3
+4,Serratus Posterior Inferior,4
+64,Iliocostalis Thoracis,4
+230,External intercostal 5,4
+231,External intercostal 6,4
+232,External intercostal 7,4
+233,External intercostal 8,4
+234,External intercostal 9,4
+235,External intercostal 10,4
+236,External intercostal 11,4
+241,Internal intercostal 5,4
+242,Internal intercostal 6,4
+243,Internal intercostal 7,4
+244,Internal intercostal 8,4
+245,Internal intercostal 9,4
+246,Internal intercostal 10,4
+247,Internal intercostal 11,4
+252,Innermost intercostal 5,4
+253,Innermost intercostal 6,4
+254,Innermost intercostal 7,4
+255,Innermost intercostal 8,4
+256,Innermost intercostal 9,4
+257,Innermost intercostal 10,4
+258,Innermost intercostal 11,4
+261,Subcostalis 3,4
+262,Subcostalis 4,4
+263,Subcostalis 6,4
+264,Diaphragm,4
+265,External oblique,4
+266,Internal oblique,4
+267,Transversus abdominis ,4
+268,Rectus abdominis,4
+5,Levator Scapulae,5
+76,Interspinalis 1,5
+99,Intertransverse 1,5
+100,Intertransverse 2,5
+113,Obliquus Capitis Inferior,5
+114,Obliquus Capitis Superior,5
+115,Rectus Capitis Posterior Major,5
+116,Rectus Capitis Posterior Minor,5
+119,Rectus Capitis Anterior,5
+120,Rectus Capitis Lateralis,5
+123,Middle Scalene,5
+135,Occipitalis,5
+136,Frontalis,5
+137,Orbicularis Oculi,5
+138,Corrugator Supercilii,5
+6,Rhomboid Minor,6
+7,Rhomboid Major,6
+62,Splenius Cervicis,6
+70,Spinalis Cervicis,6
+74,Semispinalis Capitis,6
+80,Interspinalis 5,6
+81,Interspinalis 6,6
+82,Interspinalis 7,6
+88,Rotatores 1,6
+89,Rotatores 2,6
+90,Rotatores 3,6
+91,Rotatores 4,6
+92,Rotatores 5,6
+104,Intertransverse 6,6
+105,Intertransverse 7,6
+106,Intertransverse 8,6
+107,Intertransverse 9,6
+117,Longus Colli,6
+122,Scalene Minimus,6
+9,Deltoid,7
+10,Supraspinatus,7
+11,Infraspinatus,7
+12,Teres Minor,7
+13,Teres Major,7
+14,Subscapularis,7
+18,Coracobrachialis,7
+19,Biceps Brachii,7
+20,Brachialis,7
+21,Triceps Brachii ,7
+22,Anconeus,7
+23,Pronator Teres,7
+24,Flexor Carpi Radialis,7
+25,Palmaris Longus,7
+26,Flexor Carpi Ulnaris,7
+27,Flexor Digitorum Superficialis,7
+28,Flexor Digitorum Profundus,7
+29,Flexor Pollicis Longus,7
+30,Pronator Quadratus,7
+31,Brachioradialis,7
+32,Extensor Carpi Radialis Longus,7
+33,Extensor Carpi Radialis Brevis,7
+34,Extensor Digitorum,7
+35,Extensor Digiti Minimi,7
+36,Extensor Carpi Ulnaris,7
+37,Supinator,7
+38,Abductor Pollicis Longus,7
+39,Extensor Pollicis Brevis,7
+40,Extensor Pollicis Longus,7
+41,Extensor Indicis,7
+42,Abductor Pollicis Brevis,8
+43,Flexor Pollicis Brevis,8
+44,Opponens Pollicis,8
+45,Adductor Pollicis,8
+46,Palmaris Brevis,8
+47,Abductor Digiti Minimi,8
+48,Flexor Digiti Minimi Brevis,8
+49,Opponens Digiti Minimi,8
+50,Palmar Interossei 1,8
+51,Palmar Interossei 2,8
+52,Palmar Interossei  3,8
+53,Dorsal Interossei 1,8
+54,Dorsal Interossei 2,8
+55,Dorsal Interossei 3,8
+56,Dorsal Interossei 4,8
+57,Lumbrical 1,8
+58,Lumbrical 2,8
+59,Lumbrical 3,8
+60,Lumbrical 4,8
+61,Splenius Capitis,9
+66,Longissimus Thoracis,10
+67,Longissimus Cervicis,11
+68,Longissimus Capitis,12
+71,Spinalis Capitis,13
+73,Semispinalis Cervicis,14
+75,Multifidus,15
+77,Interspinalis 2,16
+78,Interspinalis 3,16
+79,Interspinalis 4,16
+101,Intertransverse 3,16
+102,Intertransverse 4,16
+103,Intertransverse 5,16
+118,Longus Capitis,16
+121,Anterior Scalene,16
+124,Posterior Scalene,16
+125,Sternocleidomastoid,17
+126,Platysma,17
+127,Sternohyoid,17
+128,Omohyoid,17
+130,Thryohyoid,17
+131,Stylohyoid,17
+132,Digastric,17
+133,Mylohyoid,17
+134,Geniohyoid,17
+139,Orbicularis Oris,17
+140,Levator Labii Superioris Alaeque Nasi,17
+141,Levator Labii Superioris,17
+142,Zygomaticus Minor,17
+143,Zygomaticus Major,17
+144,Levator Anguli Oris,17
+145,Buccinator,17
+146,Depressor Anguli Oris,17
+147,Masseter,17
+148,Medial Pterygoid,17
+149,Lateral Pterygoid,17
+150,Levator Palpebrae Superioris,17
+155,Superior Oblique,17
+129,Sternothyroid,18
+217,Cricothryoid,18
+218,Posterior cricoarytenoid,18
+219,Lateral cricoarytenoid,18
+220,Transversus arytenoid,18
+221,Vocalis,18
+222,Thyroarytenoid,18
+223,Oblique arytenoid,18
+224,Aryepiglottic,18
+225,Thyroepiglottic,18
+151,Lateral Rectus,19
+152,Medial Rectus,19
+153,Superior Rectus,19
+154,Inferior Rectus,19
+156,Inferior Oblique,19
+158,Gluteus Maximus,20
+159,Gluteus Medius,20
+160,Gluteus Minimus,20
+161,Piriformis,20
+162,Superior Gemellus,20
+163,Inferior Gemellus,20
+164,Obturator Internus,20
+165,Quadratus Femoris,20
+166,Semitendinosus,20
+167,Semimembranosus,20
+168,Biceps Femoris,20
+169,Adductor Longus,20
+170,Adductor Brevis,20
+171,Adductor Magnus,20
+172,Gracilis,20
+173,Obturator Externus,20
+174,Sartorius,20
+175,Rectus Femoris,20
+176,Vastus Lateralis,20
+177,Vastus Intermedius,20
+178,Vastus Medialis,20
+179,Articularis Genus,20
+181,Iliacus,20
+182,Pectineus,20
+183,Gastrocnemius,20
+185,Plantaris,20
+186,Popliteus,20
+269,Pyramidalis,20
+184,Soleus,21
+187,Flexor Digitorum Longus,21
+188,Tibialis Posterior,21
+189,Flexor Hallucis Longus,21
+190,Peroneus Longus,21
+191,Peroneus Brevis,21
+192,Tibialis Anterior,21
+193,Extensor Hallucis Longus,21
+194,Extensor Digitorum Longus,21
+195,Peroneus Tertius,21
+196,Abductor Hallucis,21
+197,Flexor Digitorum Brevis,21
+198,Abductor Digiti Minimi,21
+199,Abductor Ossis Metatarsi Quinti,21
+200,Quadratus Plantae,21
+201,Lumbrical 1,21
+202,Lumbrical 2,21
+203,Lumbrical 3,21
+204,Lumbrical 4,21
+205,Flexor Hallucis Brevis,21
+206,Adductor Hallucis,21
+207,Flexor Digiti Minimi Brevis,21
+208,Plantar Interossei 1,21
+209,Plantar Interossei 2,21
+210,Plantar Interossei 3,21
+211,Dorsal Interossei 1,21
+212,Dorsal Interossei 2,21
+213,Dorsal Interossei 3,21
+214,Dorsal Interossei 4,21
+215,Extensor Hallucis Brevis,21
+216,Extensor Digitorum Brevis,21

@@ -1,0 +1,441 @@
+Log Start @2014-7-26-17-44-44-1350248
+Current ID Tick: 20
+Logs saved.
+Saving README.txt to server database...
+README.txt saved.
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+Saving TODO.txt to server database...
+TODO.txt saved.
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+~CONF 20
+A new client has connected. IP: 72.92.80.125 ID: 0x00000014
+~20`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 21
+A new client has connected. IP: 72.92.80.125 ID: 0x00000015
+~21`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~21`LOADLINE`0`README.txt`
+~21`LOADLINE`1`README.txt`Hello, welcome to EchoNet!
+~21`LOADLINE`2`README.txt`
+~21`LOADLINE`3`README.txt`
+~21`LOADLINE`4`README.txt`EchoNet was designed to be like Dropbox or Google Drive, but more
+~21`LOADLINE`5`README.txt`code-friendly.
+~21`LOADLINE`6`README.txt`It is still under development, so there will be glitches!
+~21`LOADLINE`7`README.txt`
+~21`LOADLINE`8`README.txt`
+~21`LOADLINE`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~21`LOADLINE`10`README.txt`
+~21`LOADLINE`11`README.txt`-Adam
+~21`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving README.txt to server database...
+README.txt saved.
+~21`LOADLINE`0`BUG REPORT.log`Please report all errors, glitches, bugs, etc. that you have with
+~21`LOADLINE`1`BUG REPORT.log`your program. Report in the following format:
+~21`LOADLINE`2`BUG REPORT.log`
+~21`LOADLINE`3`BUG REPORT.log`ERROR:
+~21`LOADLINE`4`BUG REPORT.log`@[who you are]
+~21`LOADLINE`5`BUG REPORT.log`[Error information
+~21`LOADLINE`6`BUG REPORT.log`
+~21`LOADLINE`7`BUG REPORT.log`For example-
+~21`LOADLINE`8`BUG REPORT.log`
+~21`LOADLINE`9`BUG REPORT.log`ERROR:
+~21`LOADLINE`10`BUG REPORT.log`@Adam
+~21`LOADLINE`11`BUG REPORT.log`Hi, I was having this problem where I get a BSOD. I managed to get a
+~21`LOADLINE`12`BUG REPORT.log`look at the Processing logs and I was getting a NullPointerException
+~21`LOADLINE`13`BUG REPORT.log`on line 207. Could you look into this?
+~21`LOADLINE`14`BUG REPORT.log`
+~21`LOADLINE`15`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`LOADLINE`16`BUG REPORT.log`------------PLEASE POST ALL PROBLEMS AFTER THIS NEXT LINE------------
+~21`LOADLINE`17`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`LOADLINE`18`BUG REPORT.log`
+~21`LOADLINE`19`BUG REPORT.log`
+~21`LOADLINE`20`BUG REPORT.log`
+~21`LOADLINE`21`BUG REPORT.log`
+~21`LOADLINE`22`BUG REPORT.log`
+~21`LOADLINE`23`BUG REPORT.log`
+~21`LOADLINE`24`BUG REPORT.log`
+~21`LOADLINE`25`BUG REPORT.log`
+~21`LOADLINE`26`BUG REPORT.log`
+~21`LOADLINE`27`BUG REPORT.log`
+~21`LOADLINE`28`BUG REPORT.log`
+~21`LOADLINE`29`BUG REPORT.log`
+~21`LOADLINE`30`BUG REPORT.log`
+~21`LOADLINE`31`BUG REPORT.log`
+~21`LOADLINE`32`BUG REPORT.log`
+~21`LOADLINE`33`BUG REPORT.log`
+~21`LOADLINE`34`BUG REPORT.log`
+~21`LOADLINE`35`BUG REPORT.log`
+~21`LOADLINE`36`BUG REPORT.log`
+~21`LOADLINE`37`BUG REPORT.log`
+~21`LOADLINE`38`BUG REPORT.log`
+~21`LOADLINE`39`BUG REPORT.log`
+~21`LOADLINE`40`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`LOADLINE`41`BUG REPORT.log`---------------------------END PROBLEM LOG---------------------------
+~21`LOADLINE`42`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+~21`LOADLINE`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gdf
+~21`PUSH`0`sadfsadf.txt`r gd
+~21`PUSH`0`sadfsadf.txt`r g
+~21`PUSH`0`sadfsadf.txt`r 
+~21`PUSH`0`sadfsadf.txt`r
+~21`PUSH`0`sadfsadf.txt`
+~21`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~21`LOADLINE`0`sadfsadf.txt`
+~21`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~21`LOADLINE`0`TODO.txt`
+~21`LOADLINE`1`TODO.txt`Adam Lastowka
+~21`LOADLINE`2`TODO.txt`7-9-2014
+~21`LOADLINE`3`TODO.txt`
+~21`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~21`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~21`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~21`LOADLINE`7`TODO.txt`
+~21`LOADLINE`8`TODO.txt`:(
+~21`LOADLINE`9`TODO.txt`
+~21`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~21`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~21`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~21`LOADLINE`13`TODO.txt`
+~21`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~21`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~21`LOADLINE`16`TODO.txt`
+~21`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~21`LOADLINE`18`TODO.txt`
+~21`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~21`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~21`LOADLINE`21`TODO.txt`
+~21`LOADLINE`22`TODO.txt`That's all.
+~21`LOADLINE`23`TODO.txt`
+~21`LOADLINE`24`TODO.txt`
+~21`LOADLINE`25`TODO.txt`TODO:
+~21`LOADLINE`26`TODO.txt`	-File Renaming
+~21`LOADLINE`27`TODO.txt`	-Deleting Files
+~21`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~21`LOADLINE`29`TODO.txt` -Highlighting text
+~21`LOADLINE`30`TODO.txt`	-Copying text
+~21`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~21`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~21`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~21`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~21`LOADLINE`35`TODO.txt` -"Double Clicking"
+~21`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~21`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~21`LOADLINE`38`TODO.txt` 
+~21`LOADLINE`39`TODO.txt` -Code coloring -Benjamin
+~21`LOADLINE`40`TODO.txt` 
+~21`LOADLINE`41`TODO.txt` -Have fun
+~CONF 22
+A new client has connected. IP: 108.16.24.170 ID: 0x00000016
+~22`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 23
+A new client has connected. IP: 108.16.24.170 ID: 0x00000017
+~23`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~21`PUSH`40`TODO.txt`  
+~21`PUSH`40`TODO.txt` - 
+~21`PUSH`40`TODO.txt` -D 
+~21`PUSH`40`TODO.txt` - 
+~21`PUSH`40`TODO.txt` -" 
+~23`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~23`LOADLINE`1`Kingdom Of Adam`Good.
+~23`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~23`LOADLINE`3`Kingdom Of Adam`Lole.
+~21`PUSH`40`TODO.txt` - 
+~21`PUSH`40`TODO.txt` -K 
+~21`PUSH`40`TODO.txt` -Ke 
+~23`PUSH`3`Kingdom Of Adam`Laole.
+~23`PUSH`3`Kingdom Of Adam`Lawole.
+~21`PUSH`40`TODO.txt` -Key 
+~23`PUSH`3`Kingdom Of Adam`Laole.
+~23`PUSH`3`Kingdom Of Adam`Lole.
+~21`PUSH`40`TODO.txt` -Keys 
+~21`PUSH`40`TODO.txt` -Keyst 
+~21`PUSH`40`TODO.txt` -Keys 
+~21`PUSH`40`TODO.txt` -Keys  
+~21`PUSH`40`TODO.txt` -Keys t 
+~21`PUSH`40`TODO.txt` -Keys to 
+~21`PUSH`40`TODO.txt` -Keys to  
+~21`PUSH`40`TODO.txt` -Keys to a 
+~23`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~21`PUSH`40`TODO.txt` -Keys to ad 
+~21`PUSH`40`TODO.txt` -Keys to add 
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~21`PUSH`40`TODO.txt` -Keys to add: 
+~21`PUSH`40`TODO.txt` -Keys to add:  
+~23`LOADLINE`0`TODO.txt`
+~23`LOADLINE`1`TODO.txt`Adam Lastowka
+~23`LOADLINE`2`TODO.txt`7-9-2014
+~23`LOADLINE`3`TODO.txt`
+~23`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~23`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~23`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~23`LOADLINE`7`TODO.txt`
+~23`LOADLINE`8`TODO.txt`:(
+~23`LOADLINE`9`TODO.txt`
+~23`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~23`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~23`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~23`LOADLINE`13`TODO.txt`
+~23`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~23`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~23`LOADLINE`16`TODO.txt`
+~23`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~23`LOADLINE`18`TODO.txt`
+~23`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~23`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~23`LOADLINE`21`TODO.txt`
+~23`LOADLINE`22`TODO.txt`That's all.
+~23`LOADLINE`23`TODO.txt`
+~23`LOADLINE`24`TODO.txt`
+~23`LOADLINE`25`TODO.txt`TODO:
+~23`LOADLINE`26`TODO.txt`	-File Renaming
+~23`LOADLINE`27`TODO.txt`	-Deleting Files
+~23`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~23`LOADLINE`29`TODO.txt` -Highlighting text
+~23`LOADLINE`30`TODO.txt`	-Copying text
+~23`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~23`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~23`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~23`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~23`LOADLINE`35`TODO.txt` -"Double Clicking"
+~23`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~23`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~23`LOADLINE`38`TODO.txt` 
+~23`LOADLINE`39`TODO.txt` -Code coloring -Benjamin
+~23`LOADLINE`40`TODO.txt` -Keys to add:  
+~23`LOADLINE`41`TODO.txt` -Have fun
+~21`PUSH`40`TODO.txt` -Keys to add: d 
+~21`PUSH`40`TODO.txt` -Keys to add: de 
+~21`PUSH`40`TODO.txt` -Keys to add: del 
+~21`PUSH`40`TODO.txt` -Keys to add: dele 
+~21`PUSH`40`TODO.txt` -Keys to add: delet 
+~21`PUSH`40`TODO.txt` -Keys to add: delete 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, 
+~21`PUSH`40`TODO.txt` -Keys to add: delete,  
+~23`PUSH`41`TODO.txt`f -Have fun
+~21`PUSH`40`TODO.txt` -Keys to add: delete, h 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, ho 
+~23`PUSH`41`TODO.txt` -Have fun
+~21`PUSH`40`TODO.txt` -Keys to add: delete, hom 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home  
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home, 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home,e 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home,en 
+~21`PUSH`40`TODO.txt` -Keys to add: delete, home,end 
+~21`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving TODO.txt to server database...
+TODO.txt saved.
+~23`PUSH`30`TODO.txt`	-Copying &text
+~23`PUSH`30`TODO.txt`	-Copying & text
+~23`PUSH`30`TODO.txt`	-Copying & Ptext
+~23`PUSH`30`TODO.txt`	-Copying & Patext
+~23`PUSH`30`TODO.txt`	-Copying & Pastext
+~23`PUSH`30`TODO.txt`	-Copying & Pasttext
+~23`PUSH`30`TODO.txt`	-Copying & Pastitext
+~23`PUSH`30`TODO.txt`	-Copying & Pastintext
+~23`PUSH`30`TODO.txt`	-Copying & Pastingtext
+~23`PUSH`30`TODO.txt`	-Copying & Pasting text
+~21`LOADLINE`0`BUG REPORT.log`Please report all errors, glitches, bugs, etc. that you have with
+~21`LOADLINE`1`BUG REPORT.log`your program. Report in the following format:
+~21`LOADLINE`2`BUG REPORT.log`
+~21`LOADLINE`3`BUG REPORT.log`ERROR:
+~21`LOADLINE`4`BUG REPORT.log`@[who you are]
+~21`LOADLINE`5`BUG REPORT.log`[Error information
+~21`LOADLINE`6`BUG REPORT.log`
+~21`LOADLINE`7`BUG REPORT.log`For example-
+~21`LOADLINE`8`BUG REPORT.log`
+~21`LOADLINE`9`BUG REPORT.log`ERROR:
+~21`LOADLINE`10`BUG REPORT.log`@Adam
+~21`LOADLINE`11`BUG REPORT.log`Hi, I was having this problem where I get a BSOD. I managed to get a
+~21`LOADLINE`12`BUG REPORT.log`look at the Processing logs and I was getting a NullPointerException
+~21`LOADLINE`13`BUG REPORT.log`on line 207. Could you look into this?
+~21`LOADLINE`14`BUG REPORT.log`
+~21`LOADLINE`15`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`LOADLINE`16`BUG REPORT.log`------------PLEASE POST ALL PROBLEMS AFTER THIS NEXT LINE------------
+~21`LOADLINE`17`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`LOADLINE`18`BUG REPORT.log`
+~21`LOADLINE`19`BUG REPORT.log`
+~21`LOADLINE`20`BUG REPORT.log`
+~21`LOADLINE`21`BUG REPORT.log`
+~21`LOADLINE`22`BUG REPORT.log`
+~21`LOADLINE`23`BUG REPORT.log`
+~21`LOADLINE`24`BUG REPORT.log`
+~21`LOADLINE`25`BUG REPORT.log`
+~21`LOADLINE`26`BUG REPORT.log`
+~21`LOADLINE`27`BUG REPORT.log`
+~21`LOADLINE`28`BUG REPORT.log`
+~21`LOADLINE`29`BUG REPORT.log`
+~21`LOADLINE`30`BUG REPORT.log`
+~21`LOADLINE`31`BUG REPORT.log`
+~21`LOADLINE`32`BUG REPORT.log`
+~21`LOADLINE`33`BUG REPORT.log`
+~21`LOADLINE`34`BUG REPORT.log`
+~21`LOADLINE`35`BUG REPORT.log`
+~21`LOADLINE`36`BUG REPORT.log`
+~21`LOADLINE`37`BUG REPORT.log`
+~21`LOADLINE`38`BUG REPORT.log`
+~21`LOADLINE`39`BUG REPORT.log`
+~21`LOADLINE`40`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`LOADLINE`41`BUG REPORT.log`---------------------------END PROBLEM LOG---------------------------
+~21`LOADLINE`42`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~21`PUSH`42`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~23`PUSH`40`TODO.txt` -Keys to add: delete, home, end 
+~23`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving TODO.txt to server database...
+TODO.txt saved.
+~CONF 24
+A new client has connected. IP: 72.92.80.125 ID: 0x00000018
+~24`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 25
+A new client has connected. IP: 72.92.80.125 ID: 0x00000019
+~25`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~25`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~25`LOADLINE`1`Kingdom Of Adam`Good.
+~25`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~25`LOADLINE`3`Kingdom Of Adam`Lole.
+~23`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~23`LOADLINE`1`Kingdom Of Adam`Good.
+~23`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~23`LOADLINE`3`Kingdom Of Adam`Lole.
+~23`PUSH`3`Kingdom Of Adam`aLole.
+~23`PUSH`3`Kingdom Of Adam`awLole.
+~23`PUSH`3`Kingdom Of Adam`aweLole.
+~25`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~23`PUSH`3`Kingdom Of Adam`aweaLole.
+~23`PUSH`3`Kingdom Of Adam`aweawLole.
+~23`PUSH`3`Kingdom Of Adam`aweaweLole.
+~23`PUSH`3`Kingdom Of Adam`aweawefLole.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~23`PUSH`3`Kingdom Of Adam`aweaweLole.
+~23`PUSH`3`Kingdom Of Adam`aweawLole.
+~23`PUSH`3`Kingdom Of Adam`aweaLole.
+~23`PUSH`3`Kingdom Of Adam`aweLole.
+~23`PUSH`3`Kingdom Of Adam`awLole.
+~23`PUSH`3`Kingdom Of Adam`aLole.
+~23`PUSH`3`Kingdom Of Adam`Lole.
+~23`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~CONF 26
+A new client has connected. IP: 72.92.80.125 ID: 0x0000001A
+~26`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 27
+A new client has connected. IP: 72.92.80.125 ID: 0x0000001B
+~27`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~27`LOADLINE`0`TODO.txt`
+~27`LOADLINE`1`TODO.txt`Adam Lastowka
+~27`LOADLINE`2`TODO.txt`7-9-2014
+~27`LOADLINE`3`TODO.txt`
+~27`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~27`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~27`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~27`LOADLINE`7`TODO.txt`
+~27`LOADLINE`8`TODO.txt`:(
+~27`LOADLINE`9`TODO.txt`
+~27`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~27`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~27`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~27`LOADLINE`13`TODO.txt`
+~27`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~27`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~27`LOADLINE`16`TODO.txt`
+~27`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~27`LOADLINE`18`TODO.txt`
+~27`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~27`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~27`LOADLINE`21`TODO.txt`
+~27`LOADLINE`22`TODO.txt`That's all.
+~27`LOADLINE`23`TODO.txt`
+~27`LOADLINE`24`TODO.txt`
+~27`LOADLINE`25`TODO.txt`TODO:
+~27`LOADLINE`26`TODO.txt`	-File Renaming
+~27`LOADLINE`27`TODO.txt`	-Deleting Files
+~27`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~27`LOADLINE`29`TODO.txt` -Highlighting text
+~27`LOADLINE`30`TODO.txt`	-Copying & Pasting text
+~27`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~27`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~27`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~27`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~27`LOADLINE`35`TODO.txt` -"Double Clicking"
+~27`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~27`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~27`LOADLINE`38`TODO.txt` 
+~27`LOADLINE`39`TODO.txt` -Code coloring -Benjamin
+~27`LOADLINE`40`TODO.txt` -Keys to add: delete, home, end 
+~27`LOADLINE`41`TODO.txt` -Have fun
+~CONF 28
+A new client has connected. IP: 72.92.80.125 ID: 0x0000001C
+~28`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 29
+A new client has connected. IP: 72.92.80.125 ID: 0x0000001D
+~29`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 30
+A new client has connected. IP: 72.92.80.125 ID: 0x0000001E
+~30`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 31
+A new client has connected. IP: 72.92.80.125 ID: 0x0000001F
+~31`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 32
+A new client has connected. IP: 72.92.80.125 ID: 0x00000020
+~32`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 33
+A new client has connected. IP: 72.92.80.125 ID: 0x00000021
+~33`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 34
+A new client has connected. IP: 72.92.80.125 ID: 0x00000022
+~34`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 35
+A new client has connected. IP: 72.92.80.125 ID: 0x00000023
+~35`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

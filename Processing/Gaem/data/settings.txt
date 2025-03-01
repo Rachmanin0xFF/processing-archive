@@ -1,0 +1,6 @@
+volume 100.0
+difficulty 1.0
+up_key 38
+right_key 39
+down_key 40
+left_key 37

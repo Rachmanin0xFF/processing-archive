@@ -1,0 +1,1416 @@
+Log Start @2014-7-26-17-22-14-535
+Current ID Tick: 14
+~CONF 14
+A new client has connected. IP: 72.92.80.125 ID: 0x0000000E
+~14`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 15
+A new client has connected. IP: 72.92.80.125 ID: 0x0000000F
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~15`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~15`LOADLINE`1`Kingdom Of Adam`Good.
+~15`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~15`LOADLINE`3`Kingdom Of Adam`Lole.
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~15`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~15`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~15`LOADLINE`2`ASCII Art.txt`
+~15`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~15`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~15`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~15`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~15`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~15`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~15`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~15`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~15`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~15`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~15`LOADLINE`13`ASCII Art.txt`###     ############
+~15`LOADLINE`14`ASCII Art.txt`#####################
+~15`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~15`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~15`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~15`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~15`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~15`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~15`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~15`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~15`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~15`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~15`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~15`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~15`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~15`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~15`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~15`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~15`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~15`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~15`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~15`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~15`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~15`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~15`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~15`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~15`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~15`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~15`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~15`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~15`LOADLINE`0`TODO.txt`
+~15`LOADLINE`1`TODO.txt`Adam Lastowka
+~15`LOADLINE`2`TODO.txt`7-9-2014
+~15`LOADLINE`3`TODO.txt`
+~15`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~15`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~15`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~15`LOADLINE`7`TODO.txt`
+~15`LOADLINE`8`TODO.txt`:(
+~15`LOADLINE`9`TODO.txt`
+~15`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~15`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~15`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~15`LOADLINE`13`TODO.txt`
+~15`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~15`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~15`LOADLINE`16`TODO.txt`
+~15`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~15`LOADLINE`18`TODO.txt`
+~15`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~15`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~15`LOADLINE`21`TODO.txt`
+~15`LOADLINE`22`TODO.txt`That's all.
+~15`LOADLINE`23`TODO.txt`
+~15`LOADLINE`24`TODO.txt`
+~15`LOADLINE`25`TODO.txt`TODO:
+~15`LOADLINE`26`TODO.txt`	-File Renaming
+~15`LOADLINE`27`TODO.txt`	-Deleting Files
+~15`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~15`LOADLINE`29`TODO.txt` -Highlighting text
+~15`LOADLINE`30`TODO.txt`	-Copying text
+~15`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~15`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~15`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~15`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~15`LOADLINE`35`TODO.txt` -"Double Clicking"
+~15`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~15`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~15`LOADLINE`38`TODO.txt` -Have fun
+~CONF 16
+A new client has connected. IP: 108.16.24.170 ID: 0x00000010
+~16`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 17
+A new client has connected. IP: 108.16.24.170 ID: 0x00000011
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~17`LOADLINE`0`README.txt`
+~17`LOADLINE`1`README.txt`Hello, welcome to EchoNet!
+~17`LOADLINE`2`README.txt`
+~17`LOADLINE`3`README.txt`
+~17`LOADLINE`4`README.txt`EchoNet was designed to be like Dropbox or Google Drive, but more
+~17`LOADLINE`5`README.txt`code-friendly.
+~17`LOADLINE`6`README.txt`It is still under development, so there will be glitches!
+~17`LOADLINE`7`README.txt`
+~17`LOADLINE`8`README.txt`
+~17`LOADLINE`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~17`LOADLINE`10`README.txt`
+~17`LOADLINE`11`README.txt`-Adam
+~17`ISL`10`README.txt
+~17`PUSH`10`README.txt`
+~17`PUSH`11`README.txt`
+~17`PUSH`12`README.txt`-Adam
+~17`ISL`11`README.txt
+~17`PUSH`11`README.txt`
+~17`PUSH`12`README.txt`
+~17`PUSH`13`README.txt`-Adam
+~17`PUSH`11`README.txt`b
+~17`PUSH`11`README.txt`be
+~17`PUSH`11`README.txt`ben
+~17`PUSH`11`README.txt`ben 
+~17`PUSH`11`README.txt`ben r
+~17`PUSH`11`README.txt`ben ru
+~17`PUSH`11`README.txt`ben ru 
+~17`PUSH`11`README.txt`ben ru h
+~17`PUSH`11`README.txt`ben ru he
+~17`PUSH`11`README.txt`ben ru her
+~17`PUSH`11`README.txt`ben ru here
+~17`PUSH`11`README.txt`ben ru her
+~17`PUSH`11`README.txt`ben ru he
+~17`PUSH`11`README.txt`ben ru h
+~17`PUSH`11`README.txt`ben ru 
+~17`PUSH`11`README.txt`ben ru
+~17`PUSH`11`README.txt`ben r
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~17`PUSH`11`README.txt`ben 
+~17`PUSH`11`README.txt`ben
+~17`PUSH`11`README.txt`be
+~17`PUSH`11`README.txt`b
+~17`PUSH`11`README.txt`
+Saving TODO.txt to server database...
+TODO.txt saved.
+~17`RMLN`11`README.txt
+~17`PUSH`10`README.txt`
+~17`RMLN`10`README.txt
+~17`PUSH`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving README.txt to server database...
+README.txt saved.
+Creating file with name of "HiAdam.txt"
+Saving file names to data/fileNames.list...
+File names saved.
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+~15`LOADLINE`0`HiAdam.txt`
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~15`PUSH`0`HiAdam.txt`H
+~15`PUSH`0`HiAdam.txt`Hi
+~15`PUSH`0`HiAdam.txt`Hi 
+~15`PUSH`0`HiAdam.txt`Hi a
+~15`PUSH`0`HiAdam.txt`Hi ad
+~17`LOADLINE`0`HiAdam.txt`Hi ad
+~15`PUSH`0`HiAdam.txt`Hi ada
+~15`PUSH`0`HiAdam.txt`Hi adam
+~15`PUSH`0`HiAdam.txt`Hi adam.
+~17`ISL`0`HiAdam.txt
+~17`PUSH`0`HiAdam.txt`
+~17`PUSH`1`HiAdam.txt`Hi adam.
+~17`PUSH`0`HiAdam.txt`i
+~17`PUSH`0`HiAdam.txt`
+~17`PUSH`0`HiAdam.txt`h
+~17`PUSH`0`HiAdam.txt`hi
+~17`PUSH`0`HiAdam.txt`hi 
+~17`PUSH`0`HiAdam.txt`hi h
+~17`PUSH`0`HiAdam.txt`hi hi
+~17`PUSH`0`HiAdam.txt`hi hi 
+~17`PUSH`0`HiAdam.txt`hi hi h
+~17`PUSH`0`HiAdam.txt`hi hi hi
+~17`ISL`1`HiAdam.txt
+~17`PUSH`1`HiAdam.txt`Hi adam.
+~17`PUSH`2`HiAdam.txt`
+~17`ISL`2`HiAdam.txt
+~17`PUSH`2`HiAdam.txt`
+~17`PUSH`3`HiAdam.txt`
+~17`ISL`3`HiAdam.txt
+~17`PUSH`3`HiAdam.txt`
+~17`PUSH`4`HiAdam.txt`
+~17`ISL`4`HiAdam.txt
+~17`PUSH`4`HiAdam.txt`
+~17`PUSH`5`HiAdam.txt`
+~17`ISL`5`HiAdam.txt
+~17`PUSH`5`HiAdam.txt`
+~17`PUSH`6`HiAdam.txt`
+~17`ISL`6`HiAdam.txt
+~17`PUSH`6`HiAdam.txt`
+~17`PUSH`7`HiAdam.txt`
+~17`PUSH`7`HiAdam.txt`o
+~17`PUSH`7`HiAdam.txt`oh
+~17`PUSH`7`HiAdam.txt`oh 
+~17`PUSH`7`HiAdam.txt`oh t
+~17`PUSH`7`HiAdam.txt`oh th
+~17`PUSH`7`HiAdam.txt`oh thi
+~17`PUSH`7`HiAdam.txt`oh this
+~17`PUSH`7`HiAdam.txt`oh this 
+~17`PUSH`7`HiAdam.txt`oh this i
+~17`PUSH`7`HiAdam.txt`oh this is
+~17`PUSH`7`HiAdam.txt`oh this is 
+~17`PUSH`7`HiAdam.txt`oh this is n
+~17`PUSH`7`HiAdam.txt`oh this is ne
+~17`PUSH`7`HiAdam.txt`oh this is nea
+~17`PUSH`7`HiAdam.txt`oh this is neat
+~17`ISL`7`HiAdam.txt
+~17`PUSH`7`HiAdam.txt`oh this is neat
+~17`PUSH`8`HiAdam.txt`
+~15`PUSH`8`HiAdam.txt`d
+~17`ISL`8`HiAdam.txt
+~17`PUSH`8`HiAdam.txt`
+~17`PUSH`9`HiAdam.txt`d
+~15`PUSH`9`HiAdam.txt`fd
+~15`PUSH`9`HiAdam.txt`fsd
+~15`PUSH`9`HiAdam.txt`fsad
+~15`PUSH`9`HiAdam.txt`fsadd
+~15`PUSH`9`HiAdam.txt`fsadfd
+~15`PUSH`9`HiAdam.txt`fsadfad
+~17`PUSH`5`HiAdam.txt`t
+~17`PUSH`5`HiAdam.txt`th
+~17`PUSH`5`HiAdam.txt`thi
+~15`PUSH`9`HiAdam.txt`fsadfasd
+~17`PUSH`5`HiAdam.txt`this
+~15`PUSH`9`HiAdam.txt`fsadfasdd
+~15`PUSH`9`HiAdam.txt`fsadfasdfd
+~17`PUSH`5`HiAdam.txt`this 
+~17`PUSH`5`HiAdam.txt`this i
+~17`PUSH`5`HiAdam.txt`this is
+~17`PUSH`5`HiAdam.txt`this is 
+~17`PUSH`5`HiAdam.txt`this is t
+~17`PUSH`5`HiAdam.txt`this is th
+~17`PUSH`5`HiAdam.txt`this is the
+~15`PUSH`9`HiAdam.txt`fsadfasdfad
+~17`PUSH`5`HiAdam.txt`this is the 
+~15`PUSH`9`HiAdam.txt`fsadfasdfasd
+~15`PUSH`9`HiAdam.txt`fsadfasdfasdd
+~15`PUSH`9`HiAdam.txt`fsadfasdfasdfd
+~17`PUSH`5`HiAdam.txt`this is the f
+~17`PUSH`5`HiAdam.txt`this is the fi
+~17`PUSH`5`HiAdam.txt`this is the fir
+~17`PUSH`5`HiAdam.txt`this is the firs
+~17`PUSH`5`HiAdam.txt`this is the first
+~17`PUSH`5`HiAdam.txt`this is the first 
+~17`PUSH`5`HiAdam.txt`this is the first t
+~17`PUSH`5`HiAdam.txt`this is the first te
+~17`PUSH`5`HiAdam.txt`this is the first tes
+~17`PUSH`5`HiAdam.txt`this is the first test
+~17`PUSH`5`HiAdam.txt`this is the first test 
+~17`PUSH`5`HiAdam.txt`this is the first test o
+~17`PUSH`5`HiAdam.txt`this is the first test ov
+~17`PUSH`5`HiAdam.txt`this is the first test ove
+~17`PUSH`5`HiAdam.txt`this is the first test over
+~17`PUSH`5`HiAdam.txt`this is the first test over 
+~15`PUSH`9`HiAdam.txt`fsadfasdfasdd
+~17`PUSH`5`HiAdam.txt`this is the first test over t
+~17`PUSH`5`HiAdam.txt`this is the first test over th
+~17`PUSH`5`HiAdam.txt`this is the first test over the
+~15`PUSH`9`HiAdam.txt`fsadfasdfasd
+~15`PUSH`9`HiAdam.txt`fsadfasdfad
+~17`PUSH`5`HiAdam.txt`this is the first test over the 
+~15`PUSH`9`HiAdam.txt`fsadfasdfd
+~15`PUSH`9`HiAdam.txt`fsadfasdd
+~15`PUSH`9`HiAdam.txt`fsadfasd
+~15`PUSH`9`HiAdam.txt`fsadfad
+~15`PUSH`9`HiAdam.txt`fsadfd
+~15`PUSH`9`HiAdam.txt`fsadd
+~17`PUSH`5`HiAdam.txt`this is the first test over the i
+~15`PUSH`9`HiAdam.txt`fsad
+~15`PUSH`9`HiAdam.txt`fsd
+~15`PUSH`9`HiAdam.txt`fd
+~17`PUSH`5`HiAdam.txt`this is the first test over the in
+~15`PUSH`9`HiAdam.txt`d
+~15`RMLN`9`HiAdam.txt
+~15`PUSH`8`HiAdam.txt`d
+~17`PUSH`5`HiAdam.txt`this is the first test over the int
+~17`PUSH`5`HiAdam.txt`this is the first test over the inte
+~17`PUSH`5`HiAdam.txt`this is the first test over the inter
+~17`PUSH`5`HiAdam.txt`this is the first test over the intern
+~17`PUSH`5`HiAdam.txt`this is the first test over the interne
+~17`PUSH`5`HiAdam.txt`this is the first test over the internet
+~15`PUSH`8`HiAdam.txt`
+~17`ISL`5`HiAdam.txt
+~17`PUSH`5`HiAdam.txt`this is the first test over the internet
+~17`PUSH`6`HiAdam.txt`
+~17`PUSH`7`HiAdam.txt`
+~17`PUSH`8`HiAdam.txt`oh this is neat
+~17`PUSH`9`HiAdam.txt`
+~17`ISL`6`HiAdam.txt
+~17`PUSH`6`HiAdam.txt`
+~17`PUSH`7`HiAdam.txt`
+~17`PUSH`8`HiAdam.txt`
+~17`PUSH`9`HiAdam.txt`oh this is neat
+~17`PUSH`10`HiAdam.txt`
+~17`PUSH`7`HiAdam.txt`t
+~17`PUSH`7`HiAdam.txt`th
+~17`PUSH`7`HiAdam.txt`the
+~17`PUSH`7`HiAdam.txt`the 
+~17`PUSH`7`HiAdam.txt`the o
+~17`PUSH`7`HiAdam.txt`the on
+~17`PUSH`7`HiAdam.txt`the onl
+~17`PUSH`7`HiAdam.txt`the only
+~17`PUSH`7`HiAdam.txt`the only 
+~17`PUSH`7`HiAdam.txt`the only g
+~17`PUSH`7`HiAdam.txt`the only gl
+~17`PUSH`7`HiAdam.txt`the only gli
+~17`PUSH`7`HiAdam.txt`the only glit
+~17`PUSH`7`HiAdam.txt`the only glitc
+~17`PUSH`7`HiAdam.txt`the only glitch
+~17`PUSH`7`HiAdam.txt`the only glitche
+~17`PUSH`7`HiAdam.txt`the only glitches
+~17`PUSH`7`HiAdam.txt`the only glitches 
+~17`PUSH`7`HiAdam.txt`the only glitches i
+~17`PUSH`7`HiAdam.txt`the only glitches it
+~17`PUSH`7`HiAdam.txt`the only glitches it 
+~17`PUSH`7`HiAdam.txt`the only glitches it h
+~17`PUSH`7`HiAdam.txt`the only glitches it ha
+~17`PUSH`7`HiAdam.txt`the only glitches it has
+~17`PUSH`7`HiAdam.txt`the only glitches it has 
+~17`PUSH`7`HiAdam.txt`the only glitches it has
+~17`PUSH`7`HiAdam.txt`the only glitches it ha
+~17`PUSH`7`HiAdam.txt`the only glitches it h
+~17`PUSH`7`HiAdam.txt`the only glitches it 
+~17`PUSH`7`HiAdam.txt`the only glitches it
+~17`PUSH`7`HiAdam.txt`the only glitches i
+~17`PUSH`7`HiAdam.txt`the only glitches 
+~17`PUSH`7`HiAdam.txt`the only glitches
+~17`PUSH`7`HiAdam.txt`the only glitche
+~17`PUSH`7`HiAdam.txt`the only glitch
+~17`PUSH`7`HiAdam.txt`the only glitc
+~17`PUSH`7`HiAdam.txt`the only glit
+~17`PUSH`7`HiAdam.txt`the only gli
+~17`PUSH`7`HiAdam.txt`the only gl
+~17`PUSH`7`HiAdam.txt`the only g
+~17`PUSH`7`HiAdam.txt`the only 
+~17`PUSH`7`HiAdam.txt`the only
+~17`PUSH`7`HiAdam.txt`the onl
+~17`PUSH`7`HiAdam.txt`the on
+~17`PUSH`7`HiAdam.txt`the o
+~17`PUSH`7`HiAdam.txt`the 
+~17`PUSH`7`HiAdam.txt`the
+~17`PUSH`7`HiAdam.txt`th
+~17`PUSH`7`HiAdam.txt`t
+~17`PUSH`7`HiAdam.txt`
+~17`PUSH`7`HiAdam.txt`o
+~17`PUSH`7`HiAdam.txt`on
+~17`PUSH`7`HiAdam.txt`one
+~17`PUSH`7`HiAdam.txt`one 
+~17`PUSH`7`HiAdam.txt`one o
+~17`PUSH`7`HiAdam.txt`one of
+~17`PUSH`7`HiAdam.txt`one of 
+~17`PUSH`7`HiAdam.txt`one of t
+~17`PUSH`7`HiAdam.txt`one of th
+~17`PUSH`7`HiAdam.txt`one of the
+~17`PUSH`7`HiAdam.txt`one of the 
+~17`PUSH`7`HiAdam.txt`one of the o
+~17`PUSH`7`HiAdam.txt`one of the on
+~17`PUSH`7`HiAdam.txt`one of the onl
+~17`PUSH`7`HiAdam.txt`one of the only
+~17`PUSH`7`HiAdam.txt`one of the only 
+~17`PUSH`7`HiAdam.txt`one of the only g
+~17`PUSH`7`HiAdam.txt`one of the only gl
+~17`PUSH`7`HiAdam.txt`one of the only gli
+~17`PUSH`7`HiAdam.txt`one of the only glit
+~17`PUSH`7`HiAdam.txt`one of the only glitc
+~17`PUSH`7`HiAdam.txt`one of the only glitch
+~17`PUSH`7`HiAdam.txt`one of the only glitche
+~17`PUSH`7`HiAdam.txt`one of the only glitches
+~17`PUSH`7`HiAdam.txt`one of the only glitches 
+~17`PUSH`7`HiAdam.txt`one of the only glitches i
+~17`PUSH`7`HiAdam.txt`one of the only glitches it
+~17`PUSH`7`HiAdam.txt`one of the only glitches it 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it h
+~17`PUSH`7`HiAdam.txt`one of the only glitches it ha
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has n
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has no
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now i
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is t
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is th
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is tha
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is that
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is that 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is that
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is tha
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is th
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is t
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is w
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is wh
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is whe
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r t
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r ty
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typ
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typi
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typin
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing a
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing an
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing and
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing and 
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~17`ISL`7`HiAdam.txt
+~17`PUSH`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~17`PUSH`8`HiAdam.txt`
+~17`PUSH`9`HiAdam.txt`
+~17`PUSH`10`HiAdam.txt`oh this is neat
+~17`PUSH`11`HiAdam.txt`
+~17`PUSH`8`HiAdam.txt`m
+~17`PUSH`8`HiAdam.txt`ma
+~17`PUSH`8`HiAdam.txt`mak
+~17`PUSH`8`HiAdam.txt`make
+~17`PUSH`8`HiAdam.txt`make 
+~17`PUSH`8`HiAdam.txt`make a
+~17`PUSH`8`HiAdam.txt`make a 
+~17`PUSH`8`HiAdam.txt`make a n
+~17`PUSH`8`HiAdam.txt`make a ne
+~17`PUSH`8`HiAdam.txt`make a new
+~17`PUSH`8`HiAdam.txt`make a new 
+~17`PUSH`8`HiAdam.txt`make a new l
+~17`PUSH`8`HiAdam.txt`make a new li
+~17`PUSH`8`HiAdam.txt`make a new lin
+~17`PUSH`8`HiAdam.txt`make a new line
+~17`PUSH`8`HiAdam.txt`make a new line 
+~17`PUSH`8`HiAdam.txt`make a new line l
+~17`PUSH`8`HiAdam.txt`make a new line li
+~17`PUSH`8`HiAdam.txt`make a new line lik
+~17`PUSH`8`HiAdam.txt`make a new line like
+~17`PUSH`8`HiAdam.txt`make a new line like 
+~17`PUSH`8`HiAdam.txt`make a new line like t
+~17`PUSH`8`HiAdam.txt`make a new line like th
+~17`PUSH`8`HiAdam.txt`make a new line like tha
+~17`PUSH`8`HiAdam.txt`make a new line like that
+~17`ISL`8`HiAdam.txt
+~17`PUSH`8`HiAdam.txt`make a new line like that
+~17`PUSH`9`HiAdam.txt`
+~17`PUSH`10`HiAdam.txt`
+~17`PUSH`11`HiAdam.txt`oh this is neat
+~17`PUSH`12`HiAdam.txt`
+~17`ISL`9`HiAdam.txt
+~17`PUSH`9`HiAdam.txt`
+~17`PUSH`10`HiAdam.txt`
+~17`PUSH`11`HiAdam.txt`
+~17`PUSH`12`HiAdam.txt`oh this is neat
+~17`PUSH`13`HiAdam.txt`
+~17`PUSH`10`HiAdam.txt`w
+~17`PUSH`10`HiAdam.txt`wh
+~17`PUSH`10`HiAdam.txt`whe
+~17`PUSH`10`HiAdam.txt`when
+~17`PUSH`10`HiAdam.txt`when 
+~17`PUSH`10`HiAdam.txt`when u
+~17`PUSH`10`HiAdam.txt`when ur
+~17`PUSH`10`HiAdam.txt`when ur 
+~17`PUSH`10`HiAdam.txt`when ur c
+~17`PUSH`10`HiAdam.txt`when ur cu
+~17`PUSH`10`HiAdam.txt`when ur cur
+~17`PUSH`10`HiAdam.txt`when ur curs
+~17`PUSH`10`HiAdam.txt`when ur curso
+~17`PUSH`10`HiAdam.txt`when ur cursor
+~17`PUSH`10`HiAdam.txt`when ur cursor 
+~17`PUSH`10`HiAdam.txt`when ur cursor i
+~17`PUSH`10`HiAdam.txt`when ur cursor is
+~17`PUSH`10`HiAdam.txt`when ur cursor is 
+~17`PUSH`10`HiAdam.txt`when ur cursor is b
+~17`PUSH`10`HiAdam.txt`when ur cursor is be
+~17`PUSH`10`HiAdam.txt`when ur cursor is bel
+~17`PUSH`10`HiAdam.txt`when ur cursor is belo
+~17`PUSH`10`HiAdam.txt`when ur cursor is below
+~17`PUSH`10`HiAdam.txt`when ur cursor is below 
+~17`PUSH`10`HiAdam.txt`when ur cursor is below m
+~17`PUSH`10`HiAdam.txt`when ur cursor is below mi
+~17`PUSH`10`HiAdam.txt`when ur cursor is below min
+~17`PUSH`10`HiAdam.txt`when ur cursor is below mine
+~17`ISL`10`HiAdam.txt
+~17`PUSH`10`HiAdam.txt`when ur cursor is below mine
+~17`PUSH`11`HiAdam.txt`
+~17`PUSH`12`HiAdam.txt`
+~17`PUSH`13`HiAdam.txt`oh this is neat
+~17`PUSH`14`HiAdam.txt`
+~17`ISL`11`HiAdam.txt
+~17`PUSH`11`HiAdam.txt`
+~17`PUSH`12`HiAdam.txt`
+~17`PUSH`13`HiAdam.txt`
+~17`PUSH`14`HiAdam.txt`oh this is neat
+~17`PUSH`15`HiAdam.txt`
+~17`PUSH`12`HiAdam.txt`o
+~17`PUSH`12`HiAdam.txt`ot
+~17`PUSH`12`HiAdam.txt`oth
+~17`PUSH`12`HiAdam.txt`othe
+~17`PUSH`12`HiAdam.txt`other
+~17`PUSH`12`HiAdam.txt`other 
+~17`PUSH`12`HiAdam.txt`other t
+~17`PUSH`12`HiAdam.txt`other th
+~17`PUSH`12`HiAdam.txt`other tha
+~17`PUSH`12`HiAdam.txt`other than
+~17`PUSH`12`HiAdam.txt`other than 
+~17`PUSH`12`HiAdam.txt`other than t
+~17`PUSH`12`HiAdam.txt`other than th
+~17`PUSH`12`HiAdam.txt`other than tha
+~17`PUSH`12`HiAdam.txt`other than that
+~17`PUSH`12`HiAdam.txt`other than that 
+~17`PUSH`12`HiAdam.txt`other than that i
+~17`PUSH`12`HiAdam.txt`other than that it
+~17`PUSH`12`HiAdam.txt`other than that it 
+~17`PUSH`12`HiAdam.txt`other than that it w
+~17`PUSH`12`HiAdam.txt`other than that it wo
+~17`PUSH`12`HiAdam.txt`other than that it wor
+~17`PUSH`12`HiAdam.txt`other than that it work
+~17`PUSH`12`HiAdam.txt`other than that it work 
+~17`PUSH`12`HiAdam.txt`other than that it work g
+~17`PUSH`12`HiAdam.txt`other than that it work gr
+~17`PUSH`12`HiAdam.txt`other than that it work gr8
+~17`PUSH`12`HiAdam.txt`other than that it work gr8!
+~17`ISL`12`HiAdam.txt
+~17`PUSH`12`HiAdam.txt`other than that it work gr8!
+~17`PUSH`13`HiAdam.txt`
+~17`PUSH`14`HiAdam.txt`
+~17`PUSH`15`HiAdam.txt`oh this is neat
+~17`PUSH`16`HiAdam.txt`
+~17`ISL`13`HiAdam.txt
+~17`PUSH`13`HiAdam.txt`
+~17`PUSH`14`HiAdam.txt`
+~17`PUSH`15`HiAdam.txt`
+~17`PUSH`16`HiAdam.txt`oh this is neat
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`14`HiAdam.txt`t
+~17`PUSH`14`HiAdam.txt`th
+~17`PUSH`14`HiAdam.txt`the
+~17`PUSH`14`HiAdam.txt`the 
+~17`PUSH`14`HiAdam.txt`the
+~17`PUSH`14`HiAdam.txt`th
+~17`PUSH`14`HiAdam.txt`thi
+~17`PUSH`14`HiAdam.txt`this
+~17`PUSH`14`HiAdam.txt`this 
+~17`PUSH`14`HiAdam.txt`this p
+~17`PUSH`14`HiAdam.txt`this pr
+~17`PUSH`14`HiAdam.txt`this pro
+~15`PUSH`17`HiAdam.txt`v
+~17`PUSH`14`HiAdam.txt`this proc
+~17`PUSH`14`HiAdam.txt`this proce
+~17`PUSH`14`HiAdam.txt`this proces
+~15`PUSH`17`HiAdam.txt`vv
+~17`PUSH`14`HiAdam.txt`this process
+~17`PUSH`14`HiAdam.txt`this processi
+~15`PUSH`17`HiAdam.txt`vvv
+~17`PUSH`14`HiAdam.txt`this processin
+~17`PUSH`14`HiAdam.txt`this processing
+~17`PUSH`14`HiAdam.txt`this processing 
+~17`PUSH`14`HiAdam.txt`this processing t
+~15`PUSH`17`HiAdam.txt`vvvv
+~17`PUSH`14`HiAdam.txt`this processing th
+~17`PUSH`14`HiAdam.txt`this processing thi
+~17`PUSH`14`HiAdam.txt`this processing this
+~15`PUSH`17`HiAdam.txt`vvvvv
+~15`PUSH`17`HiAdam.txt`vvvvvv
+~15`PUSH`17`HiAdam.txt`vvvvv
+~15`PUSH`17`HiAdam.txt`vvvvvv
+~17`ISL`14`HiAdam.txt
+~17`PUSH`14`HiAdam.txt`this processing this
+~17`PUSH`15`HiAdam.txt`
+~17`PUSH`16`HiAdam.txt`
+~17`PUSH`17`HiAdam.txt`oh this is neat
+~17`PUSH`18`HiAdam.txt`vvvvv
+~15`PUSH`18`HiAdam.txt`vvvv
+~15`PUSH`18`HiAdam.txt`vvv
+~15`PUSH`18`HiAdam.txt`vv
+~17`ISL`15`HiAdam.txt
+~17`PUSH`15`HiAdam.txt`
+~17`PUSH`16`HiAdam.txt`
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`vvvvvv
+~17`PUSH`19`HiAdam.txt`vv
+~15`PUSH`19`HiAdam.txt`v
+~15`PUSH`19`HiAdam.txt`v
+~17`ISL`16`HiAdam.txt
+~17`PUSH`16`HiAdam.txt`
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`vvvvvv
+~17`PUSH`20`HiAdam.txt`v
+~17`ISL`17`HiAdam.txt
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`vvvvvv
+~17`PUSH`21`HiAdam.txt`v
+~15`RMLN`21`HiAdam.txt
+~15`PUSH`20`HiAdam.txt`vvvvvvv
+~17`PUSH`18`HiAdam.txt`u
+~17`PUSH`18`HiAdam.txt`u 
+~15`PUSH`20`HiAdam.txt`vvvvvv
+~15`PUSH`20`HiAdam.txt`vvvvv
+~17`PUSH`18`HiAdam.txt`u s
+~15`PUSH`20`HiAdam.txt`vvvv
+~17`PUSH`18`HiAdam.txt`u se
+~17`PUSH`18`HiAdam.txt`u see
+~15`PUSH`20`HiAdam.txt`vvv
+~15`PUSH`20`HiAdam.txt`vv
+~15`PUSH`20`HiAdam.txt`v
+~15`RMLN`20`HiAdam.txt
+~15`PUSH`19`HiAdam.txt`v
+~15`PUSH`19`HiAdam.txt`yv
+~15`PUSH`19`HiAdam.txt`yev
+~15`PUSH`19`HiAdam.txt`yesv
+~15`PUSH`19`HiAdam.txt`yes.v
+~15`PUSH`19`HiAdam.txt`yes. v
+~15`PUSH`19`HiAdam.txt`yes. wv
+~15`PUSH`19`HiAdam.txt`yes. wev
+~15`PUSH`19`HiAdam.txt`yes. weiv
+~15`PUSH`19`HiAdam.txt`yes. weirv
+~15`PUSH`19`HiAdam.txt`yes. weirdv
+~17`ISL`18`HiAdam.txt
+~17`PUSH`18`HiAdam.txt`u see
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`yes. weirdv
+~15`PUSH`20`HiAdam.txt`yes. weird.v
+~15`ISL`20`HiAdam.txt
+~15`PUSH`20`HiAdam.txt`yes. weird.
+~15`PUSH`21`HiAdam.txt`v
+~17`ISL`19`HiAdam.txt
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`yes. weird.
+~17`PUSH`22`HiAdam.txt`v
+~17`ISL`19`HiAdam.txt
+~15`PUSH`22`HiAdam.txt`v
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`
+~17`PUSH`22`HiAdam.txt`yes. weird.
+~17`PUSH`23`HiAdam.txt`v
+~17`PUSH`20`HiAdam.txt`i
+~17`PUSH`20`HiAdam.txt`i 
+~17`PUSH`20`HiAdam.txt`i h
+~17`PUSH`20`HiAdam.txt`i ha
+~17`PUSH`20`HiAdam.txt`i hav
+~17`PUSH`20`HiAdam.txt`i have
+~17`PUSH`20`HiAdam.txt`i have 
+~17`PUSH`20`HiAdam.txt`i have t
+~17`PUSH`20`HiAdam.txt`i have to
+~17`PUSH`20`HiAdam.txt`i have to 
+~15`PUSH`23`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`i have to o
+~17`PUSH`20`HiAdam.txt`i have to or
+~17`PUSH`20`HiAdam.txt`i have to org
+~17`PUSH`20`HiAdam.txt`i have to orga
+~17`PUSH`20`HiAdam.txt`i have to organ
+~17`PUSH`20`HiAdam.txt`i have to organi
+~17`PUSH`20`HiAdam.txt`i have to organic
+~17`PUSH`20`HiAdam.txt`i have to organi
+~17`PUSH`20`HiAdam.txt`i have to organiz
+~17`PUSH`20`HiAdam.txt`i have to organize
+~17`PUSH`20`HiAdam.txt`i have to organize 
+~17`PUSH`20`HiAdam.txt`i have to organize t
+~17`PUSH`20`HiAdam.txt`i have to organize th
+~17`PUSH`20`HiAdam.txt`i have to organize the
+~17`PUSH`20`HiAdam.txt`i have to organize the 
+~17`PUSH`20`HiAdam.txt`i have to organize the c
+~17`PUSH`20`HiAdam.txt`i have to organize the co
+~17`PUSH`20`HiAdam.txt`i have to organize the com
+~17`PUSH`20`HiAdam.txt`i have to organize the comm
+~17`PUSH`20`HiAdam.txt`i have to organize the comma
+~17`PUSH`20`HiAdam.txt`i have to organize the comman
+~17`PUSH`20`HiAdam.txt`i have to organize the command
+~17`PUSH`20`HiAdam.txt`i have to organize the commands
+~17`PUSH`20`HiAdam.txt`i have to organize the commands 
+~17`PUSH`20`HiAdam.txt`i have to organize the commands s
+~17`PUSH`20`HiAdam.txt`i have to organize the commands se
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sen
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent 
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent t
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to 
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to t
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to th
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the 
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the s
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the se
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the ser
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the serv
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the serve
+~17`PUSH`20`HiAdam.txt`i have to organize the commands sent to the server
+~15`PUSH`23`HiAdam.txt`o
+~15`PUSH`23`HiAdam.txt`oh
+~15`PUSH`23`HiAdam.txt`oh.
+~15`ISL`23`HiAdam.txt
+~15`PUSH`23`HiAdam.txt`oh.
+~15`PUSH`24`HiAdam.txt`
+~15`PUSH`24`HiAdam.txt`i
+~15`PUSH`24`HiAdam.txt`i 
+~15`PUSH`24`HiAdam.txt`i c
+~15`PUSH`24`HiAdam.txt`i ca
+~15`PUSH`24`HiAdam.txt`i can
+~15`PUSH`24`HiAdam.txt`i can;
+~15`PUSH`24`HiAdam.txt`i can
+~15`PUSH`24`HiAdam.txt`i can'
+~15`PUSH`24`HiAdam.txt`i can't
+~15`PUSH`24`HiAdam.txt`i can't 
+~15`PUSH`24`HiAdam.txt`i can't c
+~15`PUSH`24`HiAdam.txt`i can't cl
+~15`PUSH`24`HiAdam.txt`i can't cli
+~15`PUSH`24`HiAdam.txt`i can't clic
+~15`PUSH`24`HiAdam.txt`i can't click
+~15`PUSH`24`HiAdam.txt`i can't click 
+~15`PUSH`24`HiAdam.txt`i can't click t
+~15`PUSH`24`HiAdam.txt`i can't click to
+~15`PUSH`24`HiAdam.txt`i can't click to 
+~15`PUSH`24`HiAdam.txt`i can't click to m
+~15`PUSH`24`HiAdam.txt`i can't click to mo
+~15`PUSH`24`HiAdam.txt`i can't click to mov
+~15`PUSH`24`HiAdam.txt`i can't click to move
+~15`PUSH`24`HiAdam.txt`i can't click to move 
+~15`PUSH`24`HiAdam.txt`i can't click to move t
+~15`PUSH`24`HiAdam.txt`i can't click to move th
+~15`PUSH`24`HiAdam.txt`i can't click to move the
+~15`PUSH`24`HiAdam.txt`i can't click to move the 
+~15`PUSH`24`HiAdam.txt`i can't click to move the c
+~15`PUSH`24`HiAdam.txt`i can't click to move the cu
+~15`PUSH`24`HiAdam.txt`i can't click to move the cur
+~15`PUSH`24`HiAdam.txt`i can't click to move the curs
+~15`PUSH`24`HiAdam.txt`i can't click to move the curso
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor.
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. 
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. :
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. :-
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`24`HiAdam.txt`i can't click to move the cursor. 0:-(
+~17`PUSH`24`HiAdam.txt`i can't click to move the cursor. 00:-(
+~17`PUSH`24`HiAdam.txt`i can't click to move the cursor. 000:-(
+~15`ISL`24`HiAdam.txt
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. 000
+~15`PUSH`25`HiAdam.txt`:-(
+~17`ISL`25`HiAdam.txt
+~17`PUSH`25`HiAdam.txt`
+~17`PUSH`26`HiAdam.txt`:-(
+~17`ISL`26`HiAdam.txt
+~17`PUSH`26`HiAdam.txt`
+~17`PUSH`27`HiAdam.txt`:-(
+~17`ISL`27`HiAdam.txt
+~17`PUSH`27`HiAdam.txt`
+~17`PUSH`28`HiAdam.txt`:-(
+~15`RMLN`28`HiAdam.txt
+~15`PUSH`27`HiAdam.txt`:-(
+~15`RMLN`27`HiAdam.txt
+~15`PUSH`26`HiAdam.txt`:-(
+~15`RMLN`26`HiAdam.txt
+~15`PUSH`25`HiAdam.txt`:-(
+~15`RMLN`25`HiAdam.txt
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. 000:-(
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. 00:-(
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. 0:-(
+~15`PUSH`24`HiAdam.txt`i can't click to move the cursor. :-(
+~17`ISL`24`HiAdam.txt
+~17`PUSH`24`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`25`HiAdam.txt`
+~17`ISL`25`HiAdam.txt
+~17`PUSH`25`HiAdam.txt`
+~17`PUSH`26`HiAdam.txt`
+~17`PUSH`26`HiAdam.txt`T
+~17`PUSH`26`HiAdam.txt`Th
+~17`PUSH`26`HiAdam.txt`Thi
+~17`PUSH`26`HiAdam.txt`Thin
+~17`PUSH`26`HiAdam.txt`Think
+~17`PUSH`26`HiAdam.txt`Think 
+~17`PUSH`26`HiAdam.txt`Think o
+~17`PUSH`26`HiAdam.txt`Think of
+~17`PUSH`26`HiAdam.txt`Think of 
+~17`PUSH`26`HiAdam.txt`Think of t
+~17`PUSH`26`HiAdam.txt`Think of th
+~17`PUSH`26`HiAdam.txt`Think of tha
+~17`PUSH`26`HiAdam.txt`Think of that
+~17`PUSH`26`HiAdam.txt`Think of that 
+~17`PUSH`26`HiAdam.txt`Think of that a
+~17`PUSH`26`HiAdam.txt`Think of that as
+~17`PUSH`26`HiAdam.txt`Think of that as 
+~17`PUSH`26`HiAdam.txt`Think of that as a
+~17`PUSH`26`HiAdam.txt`Think of that as a 
+~17`PUSH`26`HiAdam.txt`Think of that as a "
+~17`PUSH`26`HiAdam.txt`Think of that as a "f
+~17`PUSH`26`HiAdam.txt`Think of that as a "fe
+~17`PUSH`26`HiAdam.txt`Think of that as a "fea
+~17`PUSH`26`HiAdam.txt`Think of that as a "feat
+~17`PUSH`26`HiAdam.txt`Think of that as a "featu
+~17`PUSH`26`HiAdam.txt`Think of that as a "featur
+~17`PUSH`26`HiAdam.txt`Think of that as a "feature
+~17`PUSH`26`HiAdam.txt`Think of that as a "feature"
+~17`ISL`26`HiAdam.txt
+~17`PUSH`26`HiAdam.txt`Think of that as a "feature"
+~17`PUSH`27`HiAdam.txt`
+~17`ISL`27`HiAdam.txt
+~17`PUSH`27`HiAdam.txt`
+~17`PUSH`28`HiAdam.txt`
+~17`PUSH`28`HiAdam.txt`I
+~17`PUSH`28`HiAdam.txt`It
+~17`PUSH`28`HiAdam.txt`It'
+~17`PUSH`28`HiAdam.txt`It's
+~17`PUSH`28`HiAdam.txt`It's 
+~17`PUSH`28`HiAdam.txt`It's e
+~17`PUSH`28`HiAdam.txt`It's ea
+~17`PUSH`28`HiAdam.txt`It's eas
+~17`PUSH`28`HiAdam.txt`It's easy
+~17`PUSH`28`HiAdam.txt`It's easy 
+~17`PUSH`28`HiAdam.txt`It's easy t
+~17`PUSH`28`HiAdam.txt`It's easy to
+~17`PUSH`28`HiAdam.txt`It's easy to 
+~17`PUSH`28`HiAdam.txt`It's easy to i
+~17`PUSH`28`HiAdam.txt`It's easy to im
+~17`PUSH`28`HiAdam.txt`It's easy to imp
+~17`PUSH`28`HiAdam.txt`It's easy to impl
+~17`PUSH`28`HiAdam.txt`It's easy to imple
+~17`PUSH`28`HiAdam.txt`It's easy to implem
+~17`PUSH`28`HiAdam.txt`It's easy to impleme
+~17`PUSH`28`HiAdam.txt`It's easy to implemen
+~17`PUSH`28`HiAdam.txt`It's easy to implement
+~17`PUSH`28`HiAdam.txt`It's easy to implement 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I
+~17`PUSH`28`HiAdam.txt`It's easy to implement I 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I j
+~17`PUSH`28`HiAdam.txt`It's easy to implement I ju
+~17`PUSH`28`HiAdam.txt`It's easy to implement I jus
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just h
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just ha
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just hav
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just have
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven'
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't d
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't do
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't don
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done i
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it y
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it ye
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it yet
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it yet 
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it yet :
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`PUSH`26`HiAdam.txt`Think of that as a "feature
+~17`PUSH`26`HiAdam.txt`Think of that as a "featur
+~17`PUSH`26`HiAdam.txt`Think of that as a "featu
+~17`PUSH`26`HiAdam.txt`Think of that as a "feat
+~17`PUSH`26`HiAdam.txt`Think of that as a "fea
+~17`PUSH`26`HiAdam.txt`Think of that as a "fe
+~17`PUSH`26`HiAdam.txt`Think of that as a "f
+~17`PUSH`26`HiAdam.txt`Think of that as a "
+~17`PUSH`26`HiAdam.txt`Think of that as a 
+~17`PUSH`26`HiAdam.txt`Think of that as a
+~17`PUSH`26`HiAdam.txt`Think of that as 
+~17`PUSH`26`HiAdam.txt`Think of that as
+~17`PUSH`26`HiAdam.txt`Think of that a
+~17`PUSH`26`HiAdam.txt`Think of that 
+~17`PUSH`26`HiAdam.txt`Think of that
+~17`PUSH`26`HiAdam.txt`Think of tha
+~17`PUSH`26`HiAdam.txt`Think of th
+~17`PUSH`26`HiAdam.txt`Think of t
+~17`PUSH`26`HiAdam.txt`Think of 
+~17`PUSH`26`HiAdam.txt`Think of
+~17`PUSH`26`HiAdam.txt`Think o
+~17`PUSH`26`HiAdam.txt`Think 
+~17`PUSH`26`HiAdam.txt`Think
+~17`PUSH`26`HiAdam.txt`Thin
+~17`PUSH`26`HiAdam.txt`Thi
+~17`PUSH`26`HiAdam.txt`Th
+~17`PUSH`26`HiAdam.txt`T
+~17`PUSH`26`HiAdam.txt`
+~17`RMLN`26`HiAdam.txt
+~17`PUSH`25`HiAdam.txt`
+~17`RMLN`25`HiAdam.txt
+~17`PUSH`24`HiAdam.txt`i can't click to move the cursor. :-(
+~15`PUSH`26`HiAdam.txt`dIt's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`OIt's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`OkIt's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`Ok.It's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`Ok. It's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`Ok. :It's easy to implement I just haven't done it yet :P
+~15`PUSH`26`HiAdam.txt`Ok. :)It's easy to implement I just haven't done it yet :P
+~15`ISL`26`HiAdam.txt
+~15`PUSH`26`HiAdam.txt`Ok. :)
+~15`PUSH`27`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`ISL`16`HiAdam.txt
+~17`PUSH`16`HiAdam.txt`
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`u see
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`22`HiAdam.txt`
+~17`PUSH`23`HiAdam.txt`v
+~17`PUSH`24`HiAdam.txt`oh.
+~17`PUSH`25`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`26`HiAdam.txt`
+~17`PUSH`27`HiAdam.txt`Ok. :)
+~17`PUSH`28`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`ISL`17`HiAdam.txt
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`u see
+~17`PUSH`21`HiAdam.txt`
+~17`PUSH`22`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`23`HiAdam.txt`
+~17`PUSH`24`HiAdam.txt`v
+~17`PUSH`25`HiAdam.txt`oh.
+~17`PUSH`26`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`27`HiAdam.txt`
+~17`PUSH`28`HiAdam.txt`Ok. :)
+~17`PUSH`29`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`ISL`18`HiAdam.txt
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`u see
+~17`PUSH`22`HiAdam.txt`
+~17`PUSH`23`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`24`HiAdam.txt`
+~17`PUSH`25`HiAdam.txt`v
+~17`PUSH`26`HiAdam.txt`oh.
+~17`PUSH`27`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`28`HiAdam.txt`
+~17`PUSH`29`HiAdam.txt`Ok. :)
+~17`PUSH`30`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`PUSH`18`HiAdam.txt`t
+~17`PUSH`18`HiAdam.txt`th
+~17`PUSH`18`HiAdam.txt`the
+~17`PUSH`18`HiAdam.txt`the 
+~17`PUSH`18`HiAdam.txt`the
+~17`PUSH`18`HiAdam.txt`th
+~17`PUSH`18`HiAdam.txt`thi
+~17`PUSH`18`HiAdam.txt`this
+~17`PUSH`18`HiAdam.txt`this 
+~17`PUSH`18`HiAdam.txt`this p
+~17`PUSH`18`HiAdam.txt`this pr
+~17`PUSH`18`HiAdam.txt`this pro
+~17`PUSH`18`HiAdam.txt`this proc
+~17`PUSH`18`HiAdam.txt`this proce
+~17`PUSH`18`HiAdam.txt`this proces
+~17`PUSH`18`HiAdam.txt`this process
+~17`PUSH`18`HiAdam.txt`this processi
+~17`PUSH`18`HiAdam.txt`this processin
+~17`PUSH`18`HiAdam.txt`this processing
+~17`PUSH`18`HiAdam.txt`this processing 
+~17`PUSH`18`HiAdam.txt`this processing p
+~17`PUSH`18`HiAdam.txt`this processing pr
+~17`PUSH`18`HiAdam.txt`this processing pro
+~17`PUSH`18`HiAdam.txt`this processing prog
+~17`PUSH`18`HiAdam.txt`this processing progr
+~17`PUSH`18`HiAdam.txt`this processing progra
+~17`PUSH`18`HiAdam.txt`this processing program
+~17`PUSH`18`HiAdam.txt`this processing program 
+~17`PUSH`18`HiAdam.txt`this processing program d
+~17`PUSH`18`HiAdam.txt`this processing program do
+~17`PUSH`18`HiAdam.txt`this processing program don
+~17`PUSH`18`HiAdam.txt`this processing program don'
+~17`PUSH`18`HiAdam.txt`this processing program don't
+~17`PUSH`18`HiAdam.txt`this processing program don't 
+~17`PUSH`18`HiAdam.txt`this processing program don't s
+~17`PUSH`18`HiAdam.txt`this processing program don't sy
+~17`PUSH`18`HiAdam.txt`this processing program don't syn
+~17`PUSH`18`HiAdam.txt`this processing program don't sync
+~17`PUSH`18`HiAdam.txt`this processing program don't sync 
+~17`PUSH`18`HiAdam.txt`this processing program don't sync f
+~17`PUSH`18`HiAdam.txt`this processing program don't sync fi
+~17`PUSH`18`HiAdam.txt`this processing program don't sync fil
+~17`PUSH`18`HiAdam.txt`this processing program don't sync file
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files 
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files t
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to 
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to t
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to th
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the 
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the b
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the 
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the u
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the us
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the use
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user'
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's 
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's c
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's co
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's com
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's comp
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's compu
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's comput
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`ISL`18`HiAdam.txt
+~17`PUSH`18`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`
+~17`PUSH`22`HiAdam.txt`u see
+~17`PUSH`23`HiAdam.txt`
+~17`PUSH`24`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`25`HiAdam.txt`
+~17`PUSH`26`HiAdam.txt`v
+~17`PUSH`27`HiAdam.txt`oh.
+~17`PUSH`28`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`29`HiAdam.txt`
+~17`PUSH`30`HiAdam.txt`Ok. :)
+~17`PUSH`31`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`PUSH`19`HiAdam.txt`y
+~17`PUSH`19`HiAdam.txt`ye
+~17`PUSH`19`HiAdam.txt`yet
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+~17`LOADLINE`0`HiAdam.txt`hi hi hi
+~17`LOADLINE`1`HiAdam.txt`Hi adam.
+~17`LOADLINE`2`HiAdam.txt`
+~17`LOADLINE`3`HiAdam.txt`
+~17`LOADLINE`4`HiAdam.txt`
+~17`LOADLINE`5`HiAdam.txt`this is the first test over the internet
+~17`LOADLINE`6`HiAdam.txt`
+~17`LOADLINE`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~17`LOADLINE`8`HiAdam.txt`make a new line like that
+~17`LOADLINE`9`HiAdam.txt`
+~17`LOADLINE`10`HiAdam.txt`when ur cursor is below mine
+~17`LOADLINE`11`HiAdam.txt`
+~17`LOADLINE`12`HiAdam.txt`other than that it work gr8!
+~17`LOADLINE`13`HiAdam.txt`
+~17`LOADLINE`14`HiAdam.txt`this processing this
+~17`LOADLINE`15`HiAdam.txt`
+~17`LOADLINE`16`HiAdam.txt`
+~17`LOADLINE`17`HiAdam.txt`
+~17`LOADLINE`18`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`LOADLINE`19`HiAdam.txt`yet
+~17`LOADLINE`20`HiAdam.txt`
+~17`LOADLINE`21`HiAdam.txt`
+~17`LOADLINE`22`HiAdam.txt`u see
+~17`LOADLINE`23`HiAdam.txt`
+~17`LOADLINE`24`HiAdam.txt`i have to organize the commands sent to the server
+~17`LOADLINE`25`HiAdam.txt`
+~17`LOADLINE`26`HiAdam.txt`v
+~17`LOADLINE`27`HiAdam.txt`oh.
+~17`LOADLINE`28`HiAdam.txt`i can't click to move the cursor. :-(
+~17`LOADLINE`29`HiAdam.txt`
+~17`LOADLINE`30`HiAdam.txt`Ok. :)
+~17`LOADLINE`31`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`ISL`15`HiAdam.txt
+~17`PUSH`15`HiAdam.txt`
+~17`PUSH`16`HiAdam.txt`
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`PUSH`20`HiAdam.txt`yet
+~17`PUSH`21`HiAdam.txt`
+~17`PUSH`22`HiAdam.txt`
+~17`PUSH`23`HiAdam.txt`u see
+~17`PUSH`24`HiAdam.txt`
+~17`PUSH`25`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`26`HiAdam.txt`
+~17`PUSH`27`HiAdam.txt`v
+~17`PUSH`28`HiAdam.txt`oh.
+~17`PUSH`29`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`30`HiAdam.txt`
+~17`PUSH`31`HiAdam.txt`Ok. :)
+~17`PUSH`32`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`ISL`16`HiAdam.txt
+~17`PUSH`16`HiAdam.txt`
+~17`PUSH`17`HiAdam.txt`
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`PUSH`21`HiAdam.txt`yet
+~17`PUSH`22`HiAdam.txt`
+~17`PUSH`23`HiAdam.txt`
+~17`PUSH`24`HiAdam.txt`u see
+~17`PUSH`25`HiAdam.txt`
+~17`PUSH`26`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`27`HiAdam.txt`
+~17`PUSH`28`HiAdam.txt`v
+~17`PUSH`29`HiAdam.txt`oh.
+~17`PUSH`30`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`31`HiAdam.txt`
+~17`PUSH`32`HiAdam.txt`Ok. :)
+~17`PUSH`33`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`PUSH`17`HiAdam.txt`r
+~17`PUSH`17`HiAdam.txt`r 
+~17`PUSH`17`HiAdam.txt`r u
+~17`PUSH`17`HiAdam.txt`r u 
+~17`PUSH`17`HiAdam.txt`r u t
+~17`PUSH`17`HiAdam.txt`r u th
+~17`PUSH`17`HiAdam.txt`r u the
+~17`PUSH`17`HiAdam.txt`r u ther
+~17`PUSH`17`HiAdam.txt`r u there
+~17`ISL`17`HiAdam.txt
+~17`PUSH`17`HiAdam.txt`r u there
+~17`PUSH`18`HiAdam.txt`
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`PUSH`22`HiAdam.txt`yet
+~17`PUSH`23`HiAdam.txt`
+~17`PUSH`24`HiAdam.txt`
+~17`PUSH`25`HiAdam.txt`u see
+~17`PUSH`26`HiAdam.txt`
+~17`PUSH`27`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`28`HiAdam.txt`
+~17`PUSH`29`HiAdam.txt`v
+~17`PUSH`30`HiAdam.txt`oh.
+~17`PUSH`31`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`32`HiAdam.txt`
+~17`PUSH`33`HiAdam.txt`Ok. :)
+~17`PUSH`34`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`PUSH`18`HiAdam.txt`o
+~17`PUSH`18`HiAdam.txt`o 
+~17`PUSH`18`HiAdam.txt`o i
+~17`PUSH`18`HiAdam.txt`o i 
+~17`PUSH`18`HiAdam.txt`o i s
+~17`PUSH`18`HiAdam.txt`o i sh
+~17`PUSH`18`HiAdam.txt`o i sho
+~17`PUSH`18`HiAdam.txt`o i shou
+~17`PUSH`18`HiAdam.txt`o i shoul
+~17`PUSH`18`HiAdam.txt`o i should
+~17`PUSH`18`HiAdam.txt`o i should 
+~17`PUSH`18`HiAdam.txt`o i should s
+~17`PUSH`18`HiAdam.txt`o i should se
+~17`PUSH`18`HiAdam.txt`o i should sen
+~17`PUSH`18`HiAdam.txt`o i should send
+~17`PUSH`18`HiAdam.txt`o i should send 
+~17`PUSH`18`HiAdam.txt`o i should send a
+~17`PUSH`18`HiAdam.txt`o i should send a 
+~17`PUSH`18`HiAdam.txt`o i should send a p
+~17`PUSH`18`HiAdam.txt`o i should send a pu
+~17`PUSH`18`HiAdam.txt`o i should send a pul
+~17`PUSH`18`HiAdam.txt`o i should send a puls
+~17`PUSH`18`HiAdam.txt`o i should send a pulse
+~17`PUSH`18`HiAdam.txt`o i should send a pulse 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse s
+~17`PUSH`18`HiAdam.txt`o i should send a pulse si
+~17`PUSH`18`HiAdam.txt`o i should send a pulse sig
+~17`PUSH`18`HiAdam.txt`o i should send a pulse sign
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signe
+~17`PUSH`18`HiAdam.txt`o i should send a pulse sign
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signa
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal t
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to t
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to te
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tel
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell i
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a u
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a us
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a use
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user
+~17`ISL`18`HiAdam.txt
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user
+~17`PUSH`19`HiAdam.txt`
+~17`PUSH`20`HiAdam.txt`
+~17`PUSH`21`HiAdam.txt`
+~17`PUSH`22`HiAdam.txt`this processing program don't sync files to the user's computr
+~17`PUSH`23`HiAdam.txt`yet
+~17`PUSH`24`HiAdam.txt`
+~17`PUSH`25`HiAdam.txt`
+~17`PUSH`26`HiAdam.txt`u see
+~17`PUSH`27`HiAdam.txt`
+~17`PUSH`28`HiAdam.txt`i have to organize the commands sent to the server
+~17`PUSH`29`HiAdam.txt`
+~17`PUSH`30`HiAdam.txt`v
+~17`PUSH`31`HiAdam.txt`oh.
+~17`PUSH`32`HiAdam.txt`i can't click to move the cursor. :-(
+~17`PUSH`33`HiAdam.txt`
+~17`PUSH`34`HiAdam.txt`Ok. :)
+~17`PUSH`35`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~17`PUSH`19`HiAdam.txt`i
+~17`PUSH`19`HiAdam.txt`is
+~17`PUSH`19`HiAdam.txt`is 
+~17`PUSH`19`HiAdam.txt`is c
+~17`PUSH`19`HiAdam.txt`is co
+~17`PUSH`19`HiAdam.txt`is con
+~17`PUSH`19`HiAdam.txt`is conn
+~17`PUSH`19`HiAdam.txt`is conne
+~17`PUSH`19`HiAdam.txt`is connec
+~17`PUSH`19`HiAdam.txt`is connect
+~17`PUSH`19`HiAdam.txt`is connecte
+~17`PUSH`19`HiAdam.txt`is connected
+~17`PUSH`19`HiAdam.txt`is connecte
+~17`PUSH`19`HiAdam.txt`is connect
+~17`PUSH`19`HiAdam.txt`is connec
+~17`PUSH`19`HiAdam.txt`is conne
+~17`PUSH`19`HiAdam.txt`is conn
+~17`PUSH`19`HiAdam.txt`is con
+~17`PUSH`19`HiAdam.txt`is co
+~17`PUSH`19`HiAdam.txt`is c
+~17`PUSH`19`HiAdam.txt`is 
+~17`PUSH`19`HiAdam.txt`is
+~17`PUSH`19`HiAdam.txt`i
+~17`PUSH`19`HiAdam.txt`
+~17`RMLN`19`HiAdam.txt
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user i
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is 
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is c
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is co
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is con
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is conn
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is conne
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connec
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connect
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connecte
+~17`PUSH`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connected
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+~15`LOADLINE`0`README.txt`
+~15`LOADLINE`1`README.txt`Hello, welcome to EchoNet!
+~15`LOADLINE`2`README.txt`
+~15`LOADLINE`3`README.txt`
+~15`LOADLINE`4`README.txt`EchoNet was designed to be like Dropbox or Google Drive, but more
+~15`LOADLINE`5`README.txt`code-friendly.
+~15`LOADLINE`6`README.txt`It is still under development, so there will be glitches!
+~15`LOADLINE`7`README.txt`
+~15`LOADLINE`8`README.txt`
+~15`LOADLINE`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~15`LOADLINE`10`README.txt`
+~15`LOADLINE`11`README.txt`-Adam
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+Saving README.txt to server database...
+README.txt saved.
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving README.txt to server database...
+README.txt saved.
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~15`LOADLINE`0`BUG REPORT.log`Please report all errors, glitches, bugs, etc. that you have with
+~15`LOADLINE`1`BUG REPORT.log`your program. Report in the following format:
+~15`LOADLINE`2`BUG REPORT.log`
+~15`LOADLINE`3`BUG REPORT.log`ERROR:
+~15`LOADLINE`4`BUG REPORT.log`@[who you are]
+~15`LOADLINE`5`BUG REPORT.log`[Error information
+~15`LOADLINE`6`BUG REPORT.log`
+~15`LOADLINE`7`BUG REPORT.log`For example-
+~15`LOADLINE`8`BUG REPORT.log`
+~15`LOADLINE`9`BUG REPORT.log`ERROR:
+~15`LOADLINE`10`BUG REPORT.log`@Adam
+~15`LOADLINE`11`BUG REPORT.log`Hi, I was having this problem where I get a BSOD. I managed to get a
+~15`LOADLINE`12`BUG REPORT.log`look at the Processing logs and I was getting a NullPointerException
+~15`LOADLINE`13`BUG REPORT.log`on line 207. Could you look into this?
+~15`LOADLINE`14`BUG REPORT.log`
+~15`LOADLINE`15`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`LOADLINE`16`BUG REPORT.log`------------PLEASE POST ALL PROBLEMS AFTER THIS NEXT LINE------------
+~15`LOADLINE`17`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`LOADLINE`18`BUG REPORT.log`
+~15`LOADLINE`19`BUG REPORT.log`
+~15`LOADLINE`20`BUG REPORT.log`
+~15`LOADLINE`21`BUG REPORT.log`
+~15`LOADLINE`22`BUG REPORT.log`
+~15`LOADLINE`23`BUG REPORT.log`
+~15`LOADLINE`24`BUG REPORT.log`
+~15`LOADLINE`25`BUG REPORT.log`
+~15`LOADLINE`26`BUG REPORT.log`
+~15`LOADLINE`27`BUG REPORT.log`
+~15`LOADLINE`28`BUG REPORT.log`
+~15`LOADLINE`29`BUG REPORT.log`
+~15`LOADLINE`30`BUG REPORT.log`
+~15`LOADLINE`31`BUG REPORT.log`
+~15`LOADLINE`32`BUG REPORT.log`
+~15`LOADLINE`33`BUG REPORT.log`
+~15`LOADLINE`34`BUG REPORT.log`
+~15`LOADLINE`35`BUG REPORT.log`
+~15`LOADLINE`36`BUG REPORT.log`
+~15`LOADLINE`37`BUG REPORT.log`
+~15`LOADLINE`38`BUG REPORT.log`
+~15`LOADLINE`39`BUG REPORT.log`
+~15`LOADLINE`40`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`LOADLINE`41`BUG REPORT.log`---------------------------END PROBLEM LOG---------------------------
+~15`LOADLINE`42`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~17`LOADLINE`0`BUG REPORT.log`Please report all errors, glitches, bugs, etc. that you have with
+~17`LOADLINE`1`BUG REPORT.log`your program. Report in the following format:
+~17`LOADLINE`2`BUG REPORT.log`
+~17`LOADLINE`3`BUG REPORT.log`ERROR:
+~17`LOADLINE`4`BUG REPORT.log`@[who you are]
+~17`LOADLINE`5`BUG REPORT.log`[Error information
+~17`LOADLINE`6`BUG REPORT.log`
+~17`LOADLINE`7`BUG REPORT.log`For example-
+~17`LOADLINE`8`BUG REPORT.log`
+~17`LOADLINE`9`BUG REPORT.log`ERROR:
+~17`LOADLINE`10`BUG REPORT.log`@Adam
+~17`LOADLINE`11`BUG REPORT.log`Hi, I was having this problem where I get a BSOD. I managed to get a
+~17`LOADLINE`12`BUG REPORT.log`look at the Processing logs and I was getting a NullPointerException
+~17`LOADLINE`13`BUG REPORT.log`on line 207. Could you look into this?
+~17`LOADLINE`14`BUG REPORT.log`
+~17`LOADLINE`15`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~17`LOADLINE`16`BUG REPORT.log`------------PLEASE POST ALL PROBLEMS AFTER THIS NEXT LINE------------
+~17`LOADLINE`17`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~17`LOADLINE`18`BUG REPORT.log`
+~17`LOADLINE`19`BUG REPORT.log`
+~17`LOADLINE`20`BUG REPORT.log`
+~17`LOADLINE`21`BUG REPORT.log`
+~17`LOADLINE`22`BUG REPORT.log`
+~17`LOADLINE`23`BUG REPORT.log`
+~17`LOADLINE`24`BUG REPORT.log`
+~17`LOADLINE`25`BUG REPORT.log`
+~17`LOADLINE`26`BUG REPORT.log`
+~17`LOADLINE`27`BUG REPORT.log`
+~17`LOADLINE`28`BUG REPORT.log`
+~17`LOADLINE`29`BUG REPORT.log`
+~17`LOADLINE`30`BUG REPORT.log`
+~17`LOADLINE`31`BUG REPORT.log`
+~17`LOADLINE`32`BUG REPORT.log`
+~17`LOADLINE`33`BUG REPORT.log`
+~17`LOADLINE`34`BUG REPORT.log`
+~17`LOADLINE`35`BUG REPORT.log`
+~17`LOADLINE`36`BUG REPORT.log`
+~17`LOADLINE`37`BUG REPORT.log`
+~17`LOADLINE`38`BUG REPORT.log`
+~17`LOADLINE`39`BUG REPORT.log`
+~17`LOADLINE`40`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~17`LOADLINE`41`BUG REPORT.log`---------------------------END PROBLEM LOG---------------------------
+~17`LOADLINE`42`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~17`PUSH`32`BUG REPORT.log`a
+~17`PUSH`32`BUG REPORT.log`ah
+~17`PUSH`32`BUG REPORT.log`aha
+~17`PUSH`32`BUG REPORT.log`aha 
+~17`PUSH`32`BUG REPORT.log`aha y
+~17`PUSH`32`BUG REPORT.log`aha ye
+~17`PUSH`32`BUG REPORT.log`aha yee
+~17`PUSH`32`BUG REPORT.log`aha yees
+~17`PUSH`32`BUG REPORT.log`aha yees 
+~17`PUSH`32`BUG REPORT.log`aha yees t
+~17`PUSH`32`BUG REPORT.log`aha yees th
+~17`PUSH`32`BUG REPORT.log`aha yees th 
+~17`PUSH`32`BUG REPORT.log`aha yees th b
+~17`PUSH`32`BUG REPORT.log`aha yees th bo
+~17`PUSH`32`BUG REPORT.log`aha yees th bog
+~17`PUSH`32`BUG REPORT.log`aha yees th bog 
+~17`PUSH`32`BUG REPORT.log`aha yees th bog r
+~17`PUSH`32`BUG REPORT.log`aha yees th bog re
+~17`PUSH`32`BUG REPORT.log`aha yees th bog rep
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repu
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repue
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repuer
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repuert
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repuer
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repue
+~17`PUSH`32`BUG REPORT.log`aha yees th bog repu
+~17`PUSH`32`BUG REPORT.log`aha yees th bog rep
+~17`PUSH`32`BUG REPORT.log`aha yees th bog re
+~17`PUSH`32`BUG REPORT.log`aha yees th bog r
+~17`PUSH`32`BUG REPORT.log`aha yees th bog 
+~17`PUSH`32`BUG REPORT.log`aha yees th bog
+~17`PUSH`32`BUG REPORT.log`aha yees th bo
+~17`PUSH`32`BUG REPORT.log`aha yees th b
+~17`PUSH`32`BUG REPORT.log`aha yees th 
+~17`PUSH`32`BUG REPORT.log`aha yees th
+~17`PUSH`32`BUG REPORT.log`aha yees t
+~17`PUSH`32`BUG REPORT.log`aha yees 
+~17`PUSH`32`BUG REPORT.log`aha yees
+~17`PUSH`32`BUG REPORT.log`aha yee
+~17`PUSH`32`BUG REPORT.log`aha ye
+~17`PUSH`32`BUG REPORT.log`aha y
+~17`PUSH`32`BUG REPORT.log`aha 
+~17`PUSH`32`BUG REPORT.log`aha
+~17`PUSH`32`BUG REPORT.log`ah
+~17`PUSH`32`BUG REPORT.log`a
+~17`PUSH`32`BUG REPORT.log`
+~17`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

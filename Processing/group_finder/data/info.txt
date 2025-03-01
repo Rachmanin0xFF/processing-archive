@@ -1,0 +1,37 @@
+#--------------------------------------
+# Adam Lastowka
+# Group-finding software
+#--------------------------------------
+
+number_of_groups = 2
+minimum_per_group = 0
+maximum_per_group = 20
+normalize_inputs = false
+calculate_groups = false
+complete_calculation = true
+
+Name, Underwater Basket Weaving, Disc-Man, Guns & Ammo
+Adam, 1,                         5,        3          
+Teddy, 2,                        4,        5           
+Khyber, 3,                       0,        6           
+Csaraha, 7,                      1,        1           
+Josh, 3,                         4,        5          
+Kiah, 4,                         9,        1         
+
+Ted2dy, 2,                        4,        5          
+Khy2ber, 3,                       0,        6         
+Cs2araha, 7,                      1,        1        
+Jo2sh, 3,                         4,        5        
+Ki2ah, 4,                         9,        1         
+
+Sissah, 2,                        4,        5        
+Sharkista, 3,                       0,        6         
+Casandra, 7,                      1,        1        
+Noah, 3,                         4,        5         
+Peter, 4,                         9,        1         
+
+Pablo, 2,                        4,        5       
+Juan, 3,                       0,        6           
+Diego, 7,                      1,        1        
+Pinyata, 3,                         4,        5       
+Miguel, 4,                         9,        1          

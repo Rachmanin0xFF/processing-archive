@@ -1,0 +1,1 @@
+-\beta\frac{d\vec{r}_i}{dt} + q_i\sum_k \left[ \hat{l}_i_k (c_i_k - \lVert \vec{l}_i_k\rVert) \right] = m_i\frac{d^2\vec{r}_i}{dt^2}

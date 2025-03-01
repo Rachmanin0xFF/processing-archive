@@ -1,0 +1,8 @@
+[0] key + SEPERATOR + 
+[1] description + SEPERATOR + 
+[2] type + SEPERATOR + 
+[3] typeName + SEPERATOR + 
+[4] deviceInputName + SEPERATOR + 
+[5] inputConNo + SEPERATOR + 
+[6] multiplier + SEPERATOR + 
+[7] tolerance

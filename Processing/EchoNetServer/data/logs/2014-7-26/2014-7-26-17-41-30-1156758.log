@@ -1,0 +1,242 @@
+Log Start @2014-7-26-17-36-34-860579
+Current ID Tick: 18
+Logs saved.
+Saving README.txt to server database...
+README.txt saved.
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+Saving TODO.txt to server database...
+TODO.txt saved.
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+~15`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Creating file with name of "sadfsadf.txt"
+Saving file names to data/fileNames.list...
+File names saved.
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~15`LOADLINE`0`sadfsadf.txt`
+~15`PUSH`0`sadfsadf.txt`r
+~15`PUSH`0`sadfsadf.txt`r 
+~15`PUSH`0`sadfsadf.txt`r g
+~15`PUSH`0`sadfsadf.txt`r gd
+~15`PUSH`0`sadfsadf.txt`r gdf
+~15`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~15`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~15`LOADLINE`0`TODO.txt`
+~15`LOADLINE`1`TODO.txt`Adam Lastowka
+~15`LOADLINE`2`TODO.txt`7-9-2014
+~15`LOADLINE`3`TODO.txt`
+~15`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~15`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~15`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~15`LOADLINE`7`TODO.txt`
+~15`LOADLINE`8`TODO.txt`:(
+~15`LOADLINE`9`TODO.txt`
+~15`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~15`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~15`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~15`LOADLINE`13`TODO.txt`
+~15`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~15`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~15`LOADLINE`16`TODO.txt`
+~15`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~15`LOADLINE`18`TODO.txt`
+~15`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~15`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~15`LOADLINE`21`TODO.txt`
+~15`LOADLINE`22`TODO.txt`That's all.
+~15`LOADLINE`23`TODO.txt`
+~15`LOADLINE`24`TODO.txt`
+~15`LOADLINE`25`TODO.txt`TODO:
+~15`LOADLINE`26`TODO.txt`	-File Renaming
+~15`LOADLINE`27`TODO.txt`	-Deleting Files
+~15`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~15`LOADLINE`29`TODO.txt` -Highlighting text
+~15`LOADLINE`30`TODO.txt`	-Copying text
+~15`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~15`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~15`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~15`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~15`LOADLINE`35`TODO.txt` -"Double Clicking"
+~15`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~15`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~15`LOADLINE`38`TODO.txt` -Have fun
+~15`ISL`38`TODO.txt
+~15`PUSH`38`TODO.txt`
+~15`PUSH`39`TODO.txt` -Have fun
+~15`PUSH`38`TODO.txt` 
+~15`PUSH`38`TODO.txt` -
+~15`PUSH`38`TODO.txt` -C
+~15`PUSH`38`TODO.txt` -Cd
+~15`PUSH`38`TODO.txt` -Cde
+~15`PUSH`38`TODO.txt` -Cd
+~15`PUSH`38`TODO.txt` -C
+~15`PUSH`38`TODO.txt` -Co
+~15`PUSH`38`TODO.txt` -Cod
+~15`PUSH`38`TODO.txt` -Code
+~15`PUSH`38`TODO.txt` -Code 
+~15`PUSH`38`TODO.txt` -Code c
+~15`PUSH`38`TODO.txt` -Code co
+~15`PUSH`38`TODO.txt` -Code col
+~15`PUSH`38`TODO.txt` -Code colo
+~15`PUSH`38`TODO.txt` -Code color
+~15`PUSH`38`TODO.txt` -Code colori
+~15`PUSH`38`TODO.txt` -Code colorin
+~15`PUSH`38`TODO.txt` -Code coloring
+~15`ISL`38`TODO.txt
+~15`PUSH`38`TODO.txt` 
+~15`PUSH`39`TODO.txt`-Code coloring
+~15`PUSH`40`TODO.txt` -Have fun
+~15`PUSH`39`TODO.txt` -Code coloring
+~15`ISL`40`TODO.txt
+~15`PUSH`40`TODO.txt` 
+~15`PUSH`41`TODO.txt`-Have fun
+~15`PUSH`41`TODO.txt` -Have fun
+~CONF 18
+A new client has connected. IP: 108.16.24.170 ID: 0x00000012
+~18`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 19
+A new client has connected. IP: 108.16.24.170 ID: 0x00000013
+~19`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~15`PUSH`39`TODO.txt` -Code coloring 
+~15`PUSH`39`TODO.txt` -Code coloring -
+~15`PUSH`39`TODO.txt` -Code coloring -B
+~15`PUSH`39`TODO.txt` -Code coloring -Be
+~15`PUSH`39`TODO.txt` -Code coloring -Ben
+~19`LOADLINE`0`sadfsadf.txt`r gdf
+~15`PUSH`39`TODO.txt` -Code coloring -Benj
+~15`PUSH`39`TODO.txt` -Code coloring -Benja
+~15`PUSH`39`TODO.txt` -Code coloring -Benjam
+~15`PUSH`39`TODO.txt` -Code coloring -Benjami
+~15`PUSH`39`TODO.txt` -Code coloring -Benjamin
+~15`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving TODO.txt to server database...
+TODO.txt saved.
+~19`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~19`LOADLINE`0`TODO.txt`
+~19`LOADLINE`1`TODO.txt`Adam Lastowka
+~19`LOADLINE`2`TODO.txt`7-9-2014
+~19`LOADLINE`3`TODO.txt`
+~19`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~19`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~19`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~19`LOADLINE`7`TODO.txt`
+~19`LOADLINE`8`TODO.txt`:(
+~19`LOADLINE`9`TODO.txt`
+~19`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~19`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~19`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~19`LOADLINE`13`TODO.txt`
+~19`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~19`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~19`LOADLINE`16`TODO.txt`
+~19`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~19`LOADLINE`18`TODO.txt`
+~19`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~19`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~19`LOADLINE`21`TODO.txt`
+~19`LOADLINE`22`TODO.txt`That's all.
+~19`LOADLINE`23`TODO.txt`
+~19`LOADLINE`24`TODO.txt`
+~19`LOADLINE`25`TODO.txt`TODO:
+~19`LOADLINE`26`TODO.txt`	-File Renaming
+~19`LOADLINE`27`TODO.txt`	-Deleting Files
+~19`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~19`LOADLINE`29`TODO.txt` -Highlighting text
+~19`LOADLINE`30`TODO.txt`	-Copying text
+~19`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~19`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~19`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~19`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~19`LOADLINE`35`TODO.txt` -"Double Clicking"
+~19`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~19`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~19`LOADLINE`38`TODO.txt` 
+~19`LOADLINE`39`TODO.txt` -Code coloring -Benjamin
+~19`LOADLINE`40`TODO.txt` 
+~19`LOADLINE`41`TODO.txt` -Have fun
+~19`PUSH`40`TODO.txt`o 
+~19`PUSH`40`TODO.txt`o  
+~19`PUSH`40`TODO.txt`o y 
+~19`PUSH`40`TODO.txt`o ye 
+~19`PUSH`40`TODO.txt`o yea 
+~19`PUSH`40`TODO.txt`o yea  
+~19`PUSH`40`TODO.txt`o yea t 
+~19`PUSH`40`TODO.txt`o yea th 
+~19`PUSH`40`TODO.txt`o yea tha 
+~19`PUSH`40`TODO.txt`o yea that 
+~19`PUSH`40`TODO.txt`o yea that  
+~19`PUSH`40`TODO.txt`o yea that w 
+~19`PUSH`40`TODO.txt`o yea that wo 
+~19`PUSH`40`TODO.txt`o yea that wou 
+~19`PUSH`40`TODO.txt`o yea that woul 
+~19`PUSH`40`TODO.txt`o yea that would 
+~19`PUSH`40`TODO.txt`o yea that would  
+~19`PUSH`40`TO
+~DO.txt`o yea that would b 
+~19`PUSH`40`TODO.txt`o yea that would be 
+~19`PUSH`40`TODO.txt`o yea that would be  
+~19`PUSH`40`TODO.txt`o yea that would be n 
+~19`PUSH`40`TODO.txt`o yea that would be ni 
+~19`PUSH`40`TODO.txt`o yea that would be nic 
+~19`PUSH`40`TODO.txt`o yea that would be nice 
+~19`PUSH`40`TODO.txt`o yea that would be nice  
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2  
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 h 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 ha 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 hav 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 have 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 hav 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 ha 
+~19`PUSH`40`TODO.txt`o yea that would be nice 2 h 
+~19`PUSH`40`TODO.txt`o yea that would be nic
+~19`PUSH`40`TODO.txt`o yea that would be ni
+~19`PUSH`40`TODO.txt`o yea that would be n
+~19`PUSH`40`TODO.txt`o yea that would be 
+~19`PUSH`40`TODO.txt`o yea that would be
+~19`PUSH`40`TODO.txt`o yea that would b
+~19`PUSH`40`TODO.txt`o yea that would 
+~19`PUSH`40`TODO.txt`o yea that would
+~19`PUSH`40`TODO.txt`o yea that woul
+~19`PUSH`40`TODO.txt`o yea that wou
+~19`PUSH`40`TODO.txt`o yea that wo
+~19`PUSH`40`TODO.txt`o yea that w
+~19`PUSH`40`TODO.txt`o yea that 
+~19`PUSH`40`TODO.txt`o yea that
+~19`PUSH`40`TODO.txt`o yea tha
+~19`PUSH`40`TODO.txt`o yea th
+~19`PUSH`40`TODO.txt`o yea t
+~19`PUSH`40`TODO.txt`o yea 
+~19`PUSH`40`TODO.txt`o yea
+~19`PUSH`40`TODO.txt`o ye
+~19`PUSH`40`TODO.txt`o y
+~19`PUSH`40`TODO.txt`o 
+~19`PUSH`40`TODO.txt`o
+~19`PUSH`40`TODO.txt`
+~19`RMLN`40`TODO.txt
+~19`PUSH`39`TODO.txt` -Code coloring -Benjamin
+~19`ISL`39`TODO.txt
+~19`PUSH`39`TODO.txt` -Code coloring -Benjamin
+~19`PUSH`40`TODO.txt`
+~19`PUSH`41`TODO.txt` -Have fun
+~19`PUSH`40`TODO.txt` 
+~19`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving TODO.txt to server database...
+TODO.txt saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

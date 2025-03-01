@@ -1,0 +1,710 @@
+Log Start @2014-11-22-15-8-45-2281
+Current ID Tick: 38
+~CONF 38
+A new client has connected. IP: 127.0.0.1 ID: 0x00000026
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~38`LOADLINE`0`TODO.txt`
+~38`LOADLINE`1`TODO.txt`Adam Lastowka
+~38`LOADLINE`2`TODO.txt`7-9-2014
+~38`LOADLINE`3`TODO.txt`
+~38`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~38`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~38`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~38`LOADLINE`7`TODO.txt`
+~38`LOADLINE`8`TODO.txt`:(
+~38`LOADLINE`9`TODO.txt`
+~38`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~38`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~38`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~38`LOADLINE`13`TODO.txt`
+~38`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~38`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~38`LOADLINE`16`TODO.txt`
+~38`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~38`LOADLINE`18`TODO.txt`
+~38`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~38`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~38`LOADLINE`21`TODO.txt`
+~38`LOADLINE`22`TODO.txt`That's all.
+~38`LOADLINE`23`TODO.txt`
+~38`LOADLINE`24`TODO.txt`
+~38`LOADLINE`25`TODO.txt`TODO:
+~38`LOADLINE`26`TODO.txt`	-File Renaming
+~38`LOADLINE`27`TODO.txt`	-Deleting Files
+~38`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~38`LOADLINE`29`TODO.txt` -Highlighting text
+~38`LOADLINE`30`TODO.txt`	-Copying & Pasting text
+~38`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~38`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~38`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~38`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~38`LOADLINE`35`TODO.txt` -"Double Clicking"
+~38`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~38`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~38`LOADLINE`38`TODO.txt` 
+~38`LOADLINE`39`TODO.txt` -Code coloring -Benjamin
+~38`LOADLINE`40`TODO.txt` -Keys to add: delete, home, end 
+~38`LOADLINE`41`TODO.txt` -Have fun
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving TODO.txt to server database...
+TODO.txt saved.
+~38`LOADLINE`0`HiAdam.txt`hi hi hi
+~38`LOADLINE`1`HiAdam.txt`Hi adam.
+~38`LOADLINE`2`HiAdam.txt`
+~38`LOADLINE`3`HiAdam.txt`
+~38`LOADLINE`4`HiAdam.txt`
+~38`LOADLINE`5`HiAdam.txt`this is the first test over the internet
+~38`LOADLINE`6`HiAdam.txt`
+~38`LOADLINE`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~38`LOADLINE`8`HiAdam.txt`make a new line like that
+~38`LOADLINE`9`HiAdam.txt`
+~38`LOADLINE`10`HiAdam.txt`when ur cursor is below mine
+~38`LOADLINE`11`HiAdam.txt`
+~38`LOADLINE`12`HiAdam.txt`other than that it work gr8!
+~38`LOADLINE`13`HiAdam.txt`
+~38`LOADLINE`14`HiAdam.txt`this processing this
+~38`LOADLINE`15`HiAdam.txt`
+~38`LOADLINE`16`HiAdam.txt`
+~38`LOADLINE`17`HiAdam.txt`r u there
+~38`LOADLINE`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connected
+~38`LOADLINE`19`HiAdam.txt`
+~38`LOADLINE`20`HiAdam.txt`
+~38`LOADLINE`21`HiAdam.txt`this processing program don't sync files to the user's computr
+~38`LOADLINE`22`HiAdam.txt`yet
+~38`LOADLINE`23`HiAdam.txt`
+~38`LOADLINE`24`HiAdam.txt`
+~38`LOADLINE`25`HiAdam.txt`u see
+~38`LOADLINE`26`HiAdam.txt`
+~38`LOADLINE`27`HiAdam.txt`i have to organize the commands sent to the server
+~38`LOADLINE`28`HiAdam.txt`
+~38`LOADLINE`29`HiAdam.txt`v
+~38`LOADLINE`30`HiAdam.txt`oh.
+~38`LOADLINE`31`HiAdam.txt`i can't click to move the cursor. :-(
+~38`LOADLINE`32`HiAdam.txt`
+~38`LOADLINE`33`HiAdam.txt`Ok. :)
+~38`LOADLINE`34`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+~38`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~38`LOADLINE`1`Kingdom Of Adam`Good.
+~38`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~38`LOADLINE`3`Kingdom Of Adam`Lole.
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~38`LOADLINE`0`sadfsadf.txt`
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~38`LOADLINE`0`sadfsadf.txt`
+~38`PUSH`0`sadfsadf.txt`A
+~38`PUSH`0`sadfsadf.txt`An
+~38`PUSH`0`sadfsadf.txt`Any
+~38`PUSH`0`sadfsadf.txt`Anyt
+~38`PUSH`0`sadfsadf.txt`Anyth
+~38`PUSH`0`sadfsadf.txt`Anythi
+~38`PUSH`0`sadfsadf.txt`Anythin
+~38`PUSH`0`sadfsadf.txt`Anythin 
+~38`PUSH`0`sadfsadf.txt`Anythin
+~38`PUSH`0`sadfsadf.txt`Anything
+~38`PUSH`0`sadfsadf.txt`Anything 
+~38`PUSH`0`sadfsadf.txt`Anything o
+~38`PUSH`0`sadfsadf.txt`Anything on
+~38`PUSH`0`sadfsadf.txt`Anything on 
+~38`PUSH`0`sadfsadf.txt`Anything on t
+~38`PUSH`0`sadfsadf.txt`Anything on th
+~38`PUSH`0`sadfsadf.txt`Anything on thi
+~38`PUSH`0`sadfsadf.txt`Anything on this
+~38`PUSH`0`sadfsadf.txt`Anything on this 
+~38`PUSH`0`sadfsadf.txt`Anything on this f
+~38`PUSH`0`sadfsadf.txt`Anything on this fi
+~38`PUSH`0`sadfsadf.txt`Anything on this fil
+~38`PUSH`0`sadfsadf.txt`Anything on this file
+~38`PUSH`0`sadfsadf.txt`Anything on this file?
+~38`PUSH`0`sadfsadf.txt`Anything on this file??
+~38`PUSH`0`sadfsadf.txt`Anything on this file???
+~38`PUSH`0`sadfsadf.txt`Anything on this file????
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~38`LOADLINE`0`HiAdam.txt`hi hi hi
+~38`LOADLINE`1`HiAdam.txt`Hi adam.
+~38`LOADLINE`2`HiAdam.txt`
+~38`LOADLINE`3`HiAdam.txt`
+~38`LOADLINE`4`HiAdam.txt`
+~38`LOADLINE`5`HiAdam.txt`this is the first test over the internet
+~38`LOADLINE`6`HiAdam.txt`
+~38`LOADLINE`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~38`LOADLINE`8`HiAdam.txt`make a new line like that
+~38`LOADLINE`9`HiAdam.txt`
+~38`LOADLINE`10`HiAdam.txt`when ur cursor is below mine
+~38`LOADLINE`11`HiAdam.txt`
+~38`LOADLINE`12`HiAdam.txt`other than that it work gr8!
+~38`LOADLINE`13`HiAdam.txt`
+~38`LOADLINE`14`HiAdam.txt`this processing this
+~38`LOADLINE`15`HiAdam.txt`
+~38`LOADLINE`16`HiAdam.txt`
+~38`LOADLINE`17`HiAdam.txt`r u there
+~38`LOADLINE`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connected
+~38`LOADLINE`19`HiAdam.txt`
+~38`LOADLINE`20`HiAdam.txt`
+~38`LOADLINE`21`HiAdam.txt`this processing program don't sync files to the user's computr
+~38`LOADLINE`22`HiAdam.txt`yet
+~38`LOADLINE`23`HiAdam.txt`
+~38`LOADLINE`24`HiAdam.txt`
+~38`LOADLINE`25`HiAdam.txt`u see
+~38`LOADLINE`26`HiAdam.txt`
+~38`LOADLINE`27`HiAdam.txt`i have to organize the commands sent to the server
+~38`LOADLINE`28`HiAdam.txt`
+~38`LOADLINE`29`HiAdam.txt`v
+~38`LOADLINE`30`HiAdam.txt`oh.
+~38`LOADLINE`31`HiAdam.txt`i can't click to move the cursor. :-(
+~38`LOADLINE`32`HiAdam.txt`
+~38`LOADLINE`33`HiAdam.txt`Ok. :)
+~38`LOADLINE`34`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+~38`LOADLINE`0`README.txt`
+~38`LOADLINE`1`README.txt`Hello, welcome to EchoNet!
+~38`LOADLINE`2`README.txt`
+~38`LOADLINE`3`README.txt`
+~38`LOADLINE`4`README.txt`EchoNet was designed to be like Dropbox or Google Drive, but more
+~38`LOADLINE`5`README.txt`code-friendly.
+~38`LOADLINE`6`README.txt`It is still under development, so there will be glitches!
+~38`LOADLINE`7`README.txt`
+~38`LOADLINE`8`README.txt`
+~38`LOADLINE`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~38`LOADLINE`10`README.txt`
+~38`LOADLINE`11`README.txt`-Adam
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving README.txt to server database...
+README.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`ASCII Art.txt`ASCII Art, I guess?
+~38`LOADLINE`1`ASCII Art.txt`Perty neat-o, right?
+~38`LOADLINE`2`ASCII Art.txt`
+~38`LOADLINE`3`ASCII Art.txt`#####           yee vrry neat-o      _______
+~38`LOADLINE`4`ASCII Art.txt`#####                               |   @   |
+~38`LOADLINE`5`ASCII Art.txt`####                                 |  @    |
+~38`LOADLINE`6`ASCII Art.txt`########                            /  @    /
+~38`LOADLINE`7`ASCII Art.txt`##############                     |   @   |
+~38`LOADLINE`8`ASCII Art.txt`###############    ###                  @  |
+~38`LOADLINE`9`ASCII Art.txt`################# #####             |   @   |
+~38`LOADLINE`10`ASCII Art.txt`###   ::##################-------------------   ADAM LAND
+~38`LOADLINE`11`ASCII Art.txt`###   ::##################           YES, I AM DECLARING THIS LAND
+~38`LOADLINE`12`ASCII Art.txt`###     ###############                         ADAM LAND
+~38`LOADLINE`13`ASCII Art.txt`###     ############
+~38`LOADLINE`14`ASCII Art.txt`#####################
+~38`LOADLINE`15`ASCII Art.txt`##################   +++++++++
+~38`LOADLINE`16`ASCII Art.txt`###################  +++++++++
+~38`LOADLINE`17`ASCII Art.txt`#############     ++++++++++++            EchoNet is kind of
+~38`LOADLINE`18`ASCII Art.txt`##::  #######     ////    ////     naturally good at ASCII art
+~38`LOADLINE`19`ASCII Art.txt`##::  #######     \\\\    \\\\     because all the characters are
+~38`LOADLINE`20`ASCII Art.txt`##    ############  //    ////     the same size. It's neat-o!
+~38`LOADLINE`21`ASCII Art.txt`##    ############  \\    \\\\
+~38`LOADLINE`22`ASCII Art.txt`##    #########   ++++++++++++
+~38`LOADLINE`23`ASCII Art.txt`###############   ++++++++++++
+~38`LOADLINE`24`ASCII Art.txt`###############    +=============+
+~38`LOADLINE`25`ASCII Art.txt`##############       ???????????
+~38`LOADLINE`26`ASCII Art.txt`###########          |         |   
+~38`LOADLINE`27`ASCII Art.txt`#######              |_________|
+~38`LOADLINE`28`ASCII Art.txt`###                   |    _  |
+~38`LOADLINE`29`ASCII Art.txt`########              | _  ||_|
+~38`LOADLINE`30`ASCII Art.txt`#####                 |_|| | |
+~38`LOADLINE`31`ASCII Art.txt`########               | |_| |
+~38`LOADLINE`32`ASCII Art.txt`#####                  |  |  |
+~38`LOADLINE`33`ASCII Art.txt`######                 |  |  |
+~38`LOADLINE`34`ASCII Art.txt`###                    |  |  |
+~38`LOADLINE`35`ASCII Art.txt`#########              |  |  |
+~38`LOADLINE`36`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`37`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`38`ASCII Art.txt`ASCII ARTS            @@@@@@@@@          (Am so cool!)
+~38`LOADLINE`39`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`40`ASCII Art.txt`                      @ @@@@@ @
+~38`LOADLINE`41`ASCII Art.txt`                       @  @  @
+~38`LOADLINE`42`ASCII Art.txt`we shud go verticul next time
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+~38`LOADLINE`0`exampleFile.txt`woop woop woop
+~38`LOADLINE`1`exampleFile.txt`
+~38`LOADLINE`2`exampleFile.txt`hey guys try the typing
+~38`LOADLINE`3`exampleFile.txt`
+~38`LOADLINE`4`exampleFile.txt`
+~38`LOADLINE`5`exampleFile.txt`faweg
+~38`LOADLINE`6`exampleFile.txt`
+~38`LOADLINE`7`exampleFile.txt`
+~38`LOADLINE`8`exampleFile.txt`aweg
+~38`LOADLINE`9`exampleFile.txt`waeg
+~38`LOADLINE`10`exampleFile.txt`testign wooho
+~38`LOADLINE`11`exampleFile.txt`abpaweobiewob
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+~38`LOADLINE`0`sadfsadf.txt`Anything on this file????
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~38`LOADLINE`0`README.txt`
+~38`LOADLINE`1`README.txt`Hello, welcome to EchoNet!
+~38`LOADLINE`2`README.txt`
+~38`LOADLINE`3`README.txt`
+~38`LOADLINE`4`README.txt`EchoNet was designed to be like Dropbox or Google Drive, but more
+~38`LOADLINE`5`README.txt`code-friendly.
+~38`LOADLINE`6`README.txt`It is still under development, so there will be glitches!
+~38`LOADLINE`7`README.txt`
+~38`LOADLINE`8`README.txt`
+~38`LOADLINE`9`README.txt`Create a new file or edit exampleFile.txt to get started!
+~38`LOADLINE`10`README.txt`
+~38`LOADLINE`11`README.txt`-Adam
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving README.txt to server database...
+README.txt saved.
+~38`LOADLINE`0`HiAdam.txt`hi hi hi
+~38`LOADLINE`1`HiAdam.txt`Hi adam.
+~38`LOADLINE`2`HiAdam.txt`
+~38`LOADLINE`3`HiAdam.txt`
+~38`LOADLINE`4`HiAdam.txt`
+~38`LOADLINE`5`HiAdam.txt`this is the first test over the internet
+~38`LOADLINE`6`HiAdam.txt`
+~38`LOADLINE`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~38`LOADLINE`8`HiAdam.txt`make a new line like that
+~38`LOADLINE`9`HiAdam.txt`
+~38`LOADLINE`10`HiAdam.txt`when ur cursor is below mine
+~38`LOADLINE`11`HiAdam.txt`
+~38`LOADLINE`12`HiAdam.txt`other than that it work gr8!
+~38`LOADLINE`13`HiAdam.txt`
+~38`LOADLINE`14`HiAdam.txt`this processing this
+~38`LOADLINE`15`HiAdam.txt`
+~38`LOADLINE`16`HiAdam.txt`
+~38`LOADLINE`17`HiAdam.txt`r u there
+~38`LOADLINE`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connected
+~38`LOADLINE`19`HiAdam.txt`
+~38`LOADLINE`20`HiAdam.txt`
+~38`LOADLINE`21`HiAdam.txt`this processing program don't sync files to the user's computr
+~38`LOADLINE`22`HiAdam.txt`yet
+~38`LOADLINE`23`HiAdam.txt`
+~38`LOADLINE`24`HiAdam.txt`
+~38`LOADLINE`25`HiAdam.txt`u see
+~38`LOADLINE`26`HiAdam.txt`
+~38`LOADLINE`27`HiAdam.txt`i have to organize the commands sent to the server
+~38`LOADLINE`28`HiAdam.txt`
+~38`LOADLINE`29`HiAdam.txt`v
+~38`LOADLINE`30`HiAdam.txt`oh.
+~38`LOADLINE`31`HiAdam.txt`i can't click to move the cursor. :-(
+~38`LOADLINE`32`HiAdam.txt`
+~38`LOADLINE`33`HiAdam.txt`Ok. :)
+~38`LOADLINE`34`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+~38`LOADLINE`0`HiAdam.txt`hi hi hi
+~38`LOADLINE`1`HiAdam.txt`Hi adam.
+~38`LOADLINE`2`HiAdam.txt`
+~38`LOADLINE`3`HiAdam.txt`
+~38`LOADLINE`4`HiAdam.txt`
+~38`LOADLINE`5`HiAdam.txt`this is the first test over the internet
+~38`LOADLINE`6`HiAdam.txt`
+~38`LOADLINE`7`HiAdam.txt`one of the only glitches it has now is when u r typing and i 
+~38`LOADLINE`8`HiAdam.txt`make a new line like that
+~38`LOADLINE`9`HiAdam.txt`
+~38`LOADLINE`10`HiAdam.txt`when ur cursor is below mine
+~38`LOADLINE`11`HiAdam.txt`
+~38`LOADLINE`12`HiAdam.txt`other than that it work gr8!
+~38`LOADLINE`13`HiAdam.txt`
+~38`LOADLINE`14`HiAdam.txt`this processing this
+~38`LOADLINE`15`HiAdam.txt`
+~38`LOADLINE`16`HiAdam.txt`
+~38`LOADLINE`17`HiAdam.txt`r u there
+~38`LOADLINE`18`HiAdam.txt`o i should send a pulse signal to tell if a user is connected
+~38`LOADLINE`19`HiAdam.txt`
+~38`LOADLINE`20`HiAdam.txt`
+~38`LOADLINE`21`HiAdam.txt`this processing program don't sync files to the user's computr
+~38`LOADLINE`22`HiAdam.txt`yet
+~38`LOADLINE`23`HiAdam.txt`
+~38`LOADLINE`24`HiAdam.txt`
+~38`LOADLINE`25`HiAdam.txt`u see
+~38`LOADLINE`26`HiAdam.txt`
+~38`LOADLINE`27`HiAdam.txt`i have to organize the commands sent to the server
+~38`LOADLINE`28`HiAdam.txt`
+~38`LOADLINE`29`HiAdam.txt`v
+~38`LOADLINE`30`HiAdam.txt`oh.
+~38`LOADLINE`31`HiAdam.txt`i can't click to move the cursor. :-(
+~38`LOADLINE`32`HiAdam.txt`
+~38`LOADLINE`33`HiAdam.txt`Ok. :)
+~38`LOADLINE`34`HiAdam.txt`It's easy to implement I just haven't done it yet :P
+~38`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

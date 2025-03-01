@@ -1,0 +1,30 @@
+# key:
+#     n - neuron I.D. - neuron name
+#     b - neuron bias
+#     a - is neuron active?
+#     s - sigmoid mode [0: x/(1+|x|), 1: 1/(1+e^(-x)), 2: tanh(x)]
+#     OBU - override bipartite update?
+#     w weight1 weight2 weight3 ...
+#     i inputID1 inputID2 inputID3 ...
+#     wgrad weightGradient1 weightGradient2 weightGradient3 ... [gradients are relative to a predetermined cost function of the network]
+#     bgrad biasGradient1 biasGradient2 biasGradient3
+
+n 0 
+b 0.0
+a true
+s 0
+OBU true
+w 0.5 
+i 0 
+wgrad 0.0 
+bgrad 0.0
+
+n 1 
+b 0.0
+a true
+s 0
+OBU true
+w 0.9 1.2 
+i 1 0 
+wgrad -1.5258789 0.76293945 
+bgrad -3.8146973

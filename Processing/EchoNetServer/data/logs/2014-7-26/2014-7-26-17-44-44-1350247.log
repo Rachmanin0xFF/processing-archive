@@ -1,0 +1,72 @@
+Log Start @2014-7-26-17-41-31-1156761
+Current ID Tick: 20
+Logs saved.
+Saving README.txt to server database...
+README.txt saved.
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+Saving HiAdam.txt to server database...
+HiAdam.txt saved.
+Saving ASCII Art.txt to server database...
+ASCII Art.txt saved.
+Saving TODO.txt to server database...
+TODO.txt saved.
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+~15`LOADLINE`0`sadfsadf.txt`r gdf
+~15`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving sadfsadf.txt to server database...
+sadfsadf.txt saved.
+~15`LOADLINE`0`BUG REPORT.log`Please report all errors, glitches, bugs, etc. that you have with
+~15`LOADLINE`1`BUG REPORT.log`your program. Report in the following format:
+~15`LOADLINE`2`BUG REPORT.log`
+~15`LOADLINE`3`BUG REPORT.log`ERROR:
+~15`LOADLINE`4`BUG REPORT.log`@[who you are]
+~15`LOADLINE`5`BUG REPORT.log`[Error information
+~15`LOADLINE`6`BUG REPORT.log`
+~15`LOADLINE`7`BUG REPORT.log`For example-
+~15`LOADLINE`8`BUG REPORT.log`
+~15`LOADLINE`9`BUG REPORT.log`ERROR:
+~15`LOADLINE`10`BUG REPORT.log`@Adam
+~15`LOADLINE`11`BUG REPORT.log`Hi, I was having this problem where I get a BSOD. I managed to get a
+~15`LOADLINE`12`BUG REPORT.log`look at the Processing logs and I was getting a NullPointerException
+~15`LOADLINE`13`BUG REPORT.log`on line 207. Could you look into this?
+~15`LOADLINE`14`BUG REPORT.log`
+~15`LOADLINE`15`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`LOADLINE`16`BUG REPORT.log`------------PLEASE POST ALL PROBLEMS AFTER THIS NEXT LINE------------
+~15`LOADLINE`17`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`LOADLINE`18`BUG REPORT.log`
+~15`LOADLINE`19`BUG REPORT.log`
+~15`LOADLINE`20`BUG REPORT.log`
+~15`LOADLINE`21`BUG REPORT.log`
+~15`LOADLINE`22`BUG REPORT.log`
+~15`LOADLINE`23`BUG REPORT.log`
+~15`LOADLINE`24`BUG REPORT.log`
+~15`LOADLINE`25`BUG REPORT.log`
+~15`LOADLINE`26`BUG REPORT.log`
+~15`LOADLINE`27`BUG REPORT.log`
+~15`LOADLINE`28`BUG REPORT.log`
+~15`LOADLINE`29`BUG REPORT.log`
+~15`LOADLINE`30`BUG REPORT.log`
+~15`LOADLINE`31`BUG REPORT.log`
+~15`LOADLINE`32`BUG REPORT.log`
+~15`LOADLINE`33`BUG REPORT.log`
+~15`LOADLINE`34`BUG REPORT.log`
+~15`LOADLINE`35`BUG REPORT.log`
+~15`LOADLINE`36`BUG REPORT.log`
+~15`LOADLINE`37`BUG REPORT.log`
+~15`LOADLINE`38`BUG REPORT.log`
+~15`LOADLINE`39`BUG REPORT.log`
+~15`LOADLINE`40`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`LOADLINE`41`BUG REPORT.log`---------------------------END PROBLEM LOG---------------------------
+~15`LOADLINE`42`BUG REPORT.log`/////////////////////////////////////////////////////////////////////
+~15`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving BUG REPORT.log to server database...
+BUG REPORT.log saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

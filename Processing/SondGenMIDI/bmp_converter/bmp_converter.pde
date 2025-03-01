@@ -1,0 +1,1 @@
+TARGET_DIR = "C:\\Users\\Adam\\Desktop\\PA-1-9\\AutumnLight\\data\\advanced_test_models\\sponza\\textures";

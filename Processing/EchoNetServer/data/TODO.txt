@@ -1,0 +1,42 @@
+
+Adam Lastowka
+7-9-2014
+
+Sadly the source code for EchoNet can't be put into EchoNet due to
+the fact that it uses those "special characters" which would
+corrupt the commands if you typed them.
+
+:(
+
+So, to clarify, unused characters are:
+	-The little squiggly thing
+ -The little backwards apostrophe (SHIFT+squiggly)
+
+Also, at the moment, EchoNet has some difficulty with users
+inputting newlines when others are typing below them.
+
+It's pretty annoying to fix, actually.
+
+Also doing non-squish line updating is actually pretty fast,
+all of the information is sent in the same tick as the same String.
+
+That's all.
+
+
+TODO:
+	-File Renaming
+	-Deleting Files
+	-Seeing other user's cursors
+ -Highlighting text
+	-Copying & Pasting text
+ -Pressing right when at the end of line moves to new line
+ -"Fencing off" lines
+ -Syncing files to all connected users on saving
+ -Syncing all local files on opening application
+ -"Double Clicking"
+ -More font/color choices? Customization?
+ -An "Exit" button (without saving)
+ 
+ -Code coloring -Benjamin
+ -Keys to add: delete, home, end 
+ -Have fun

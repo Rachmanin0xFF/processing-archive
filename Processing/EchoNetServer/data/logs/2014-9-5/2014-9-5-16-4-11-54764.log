@@ -1,0 +1,56 @@
+Log Start @2014-9-5-16-3-17-647
+Current ID Tick: 36
+~CONF 36
+A new client has connected. IP: 127.0.0.1 ID: 0x00000024
+~36`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 37
+A new client has connected. IP: 127.0.0.1 ID: 0x00000025
+~37`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+~37`LOADLINE`0`TODO.txt`
+~37`LOADLINE`1`TODO.txt`Adam Lastowka
+~37`LOADLINE`2`TODO.txt`7-9-2014
+~37`LOADLINE`3`TODO.txt`
+~37`LOADLINE`4`TODO.txt`Sadly the source code for EchoNet can't be put into EchoNet due to
+~37`LOADLINE`5`TODO.txt`the fact that it uses those "special characters" which would
+~37`LOADLINE`6`TODO.txt`corrupt the commands if you typed them.
+~37`LOADLINE`7`TODO.txt`
+~37`LOADLINE`8`TODO.txt`:(
+~37`LOADLINE`9`TODO.txt`
+~37`LOADLINE`10`TODO.txt`So, to clarify, unused characters are:
+~37`LOADLINE`11`TODO.txt`	-The little squiggly thing
+~37`LOADLINE`12`TODO.txt` -The little backwards apostrophe (SHIFT+squiggly)
+~37`LOADLINE`13`TODO.txt`
+~37`LOADLINE`14`TODO.txt`Also, at the moment, EchoNet has some difficulty with users
+~37`LOADLINE`15`TODO.txt`inputting newlines when others are typing below them.
+~37`LOADLINE`16`TODO.txt`
+~37`LOADLINE`17`TODO.txt`It's pretty annoying to fix, actually.
+~37`LOADLINE`18`TODO.txt`
+~37`LOADLINE`19`TODO.txt`Also doing non-squish line updating is actually pretty fast,
+~37`LOADLINE`20`TODO.txt`all of the information is sent in the same tick as the same String.
+~37`LOADLINE`21`TODO.txt`
+~37`LOADLINE`22`TODO.txt`That's all.
+~37`LOADLINE`23`TODO.txt`
+~37`LOADLINE`24`TODO.txt`
+~37`LOADLINE`25`TODO.txt`TODO:
+~37`LOADLINE`26`TODO.txt`	-File Renaming
+~37`LOADLINE`27`TODO.txt`	-Deleting Files
+~37`LOADLINE`28`TODO.txt`	-Seeing other user's cursors
+~37`LOADLINE`29`TODO.txt` -Highlighting text
+~37`LOADLINE`30`TODO.txt`	-Copying & Pasting text
+~37`LOADLINE`31`TODO.txt` -Pressing right when at the end of line moves to new line
+~37`LOADLINE`32`TODO.txt` -"Fencing off" lines
+~37`LOADLINE`33`TODO.txt` -Syncing files to all connected users on saving
+~37`LOADLINE`34`TODO.txt` -Syncing all local files on opening application
+~37`LOADLINE`35`TODO.txt` -"Double Clicking"
+~37`LOADLINE`36`TODO.txt` -More font/color choices? Customization?
+~37`LOADLINE`37`TODO.txt` -An "Exit" button (without saving)
+~37`LOADLINE`38`TODO.txt` 
+~37`LOADLINE`39`TODO.txt` -Code coloring -Benjamin
+~37`LOADLINE`40`TODO.txt` -Keys to add: delete, home, end 
+~37`LOADLINE`41`TODO.txt` -Have fun
+~37`FLIST`README.txt`sadfsadf.txt`BUG REPORT.log`Kingdom Of Adam`HiAdam.txt`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving TODO.txt to server database...
+TODO.txt saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...

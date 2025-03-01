@@ -1,0 +1,10 @@
+
+XPOS	Left-Right	3	SLIDER	X Rotation	0	1.0	0.0
+YPOS	Forward-Backward	3	SLIDER	Y Rotation	0	1.0	0.0
+ZPOS	Throttle-Sticky	3	SLIDER	Y Axis	0	1.0	0.0
+THROT	Throttle	3	SLIDER	Z Axis	0	1.0	0.0
+SCAN	Scan Network	1	BUTTON	Button 0	0	0.0	0.0
+DISCON	Disconnect	1	BUTTON	Button 1	0	0.0	0.0
+LOADPID	Load PID	1	BUTTON	Button 2	0	0.0	0.0
+ZERO	Kill Motors	1	BUTTON	Button 3	0	0.0	0.0
+ZERO_CONTROL	Change X-Y Zero	2	HAT_SWITCH	cooliehat: Hat Switch	0	2.0	0.0

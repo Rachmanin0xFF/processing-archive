@@ -1,0 +1,60 @@
+Log Start @2014-7-26-17-16-30-436
+Current ID Tick: 8
+~CONF 8
+A new client has connected. IP: 108.16.24.170 ID: 0x00000008
+~8`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 9
+A new client has connected. IP: 108.16.24.170 ID: 0x00000009
+~9`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~9`LOADLINE`0`exampleFile.txt`woop woop woop
+~9`LOADLINE`1`exampleFile.txt`
+~9`LOADLINE`2`exampleFile.txt`hey guys try the typing
+~9`LOADLINE`3`exampleFile.txt`
+~9`LOADLINE`4`exampleFile.txt`
+~9`LOADLINE`5`exampleFile.txt`faweg
+~9`LOADLINE`6`exampleFile.txt`
+~9`LOADLINE`7`exampleFile.txt`
+~9`LOADLINE`8`exampleFile.txt`aweg
+~9`LOADLINE`9`exampleFile.txt`waeg
+~9`LOADLINE`10`exampleFile.txt`testign wooho
+~9`LOADLINE`11`exampleFile.txt`abpaweobiewob
+~9`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+~CONF 10
+A new client has connected. IP: 108.16.24.170 ID: 0x0000000A
+~10`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 11
+A new client has connected. IP: 108.16.24.170 ID: 0x0000000B
+~11`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 12
+A new client has connected. IP: 108.16.24.170 ID: 0x0000000C
+~12`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~CONF 13
+A new client has connected. IP: 108.16.24.170 ID: 0x0000000D
+~13`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+~13`LOADLINE`0`Kingdom Of Adam`Hello, this is kingdom of Adam. How u do.
+~13`LOADLINE`1`Kingdom Of Adam`Good.
+~13`LOADLINE`2`Kingdom Of Adam`Good. Me doo good too2.
+~13`LOADLINE`3`Kingdom Of Adam`Lole.
+~13`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving Kingdom Of Adam to server database...
+Kingdom Of Adam saved.
+~13`LOADLINE`0`exampleFile.txt`woop woop woop
+~13`LOADLINE`1`exampleFile.txt`
+~13`LOADLINE`2`exampleFile.txt`hey guys try the typing
+~13`LOADLINE`3`exampleFile.txt`
+~13`LOADLINE`4`exampleFile.txt`
+~13`LOADLINE`5`exampleFile.txt`faweg
+~13`LOADLINE`6`exampleFile.txt`
+~13`LOADLINE`7`exampleFile.txt`
+~13`LOADLINE`8`exampleFile.txt`aweg
+~13`LOADLINE`9`exampleFile.txt`waeg
+~13`LOADLINE`10`exampleFile.txt`testign wooho
+~13`LOADLINE`11`exampleFile.txt`abpaweobiewob
+~13`FLIST`README.txt`BUG REPORT.log`Kingdom Of Adam`ASCII Art.txt`TODO.txt`exampleFile.txt
+Saving exampleFile.txt to server database...
+exampleFile.txt saved.
+Saving file names to data/fileNames.list...
+File names saved.
+Saving logs to server-side memory...
